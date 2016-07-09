@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* FlexSlider Default Theme
+*********************************/
+.flexslider {margin: 0 0 0px;  position: relative; overflow:hidden;}
+.flex-viewport {max-height: 2000px; -webkit-transition: all 1s ease; -moz-transition: all 1s ease; transition: all 1s ease;}
+.loading .flex-viewport {max-height: 300px;}
+.flexslider .slides {zoom: 1;}
+
+.carousel li {margin-right: 5px}
+
+
+/* Direction Nav */
+.flex-direction-nav {*height: 0;}
+.flex-direction-nav a {width:51px; height:51px; margin: -56px 0 0; display: block; background: url(../images/bg_direction_nav.png) no-repeat 0 0; position: absolute; top: 50%; z-index: 10; cursor: pointer; text-indent: -9999px; opacity: 1; -webkit-transition: all .3s ease;}
+.flex-direction-nav a.flex-next{background:	url(../images/bg_direction_nav-nex.png) left top no-repeat;}
+.flex-direction-nav .flex-next {background-position: 100% 0; right: 0px; }
+.flex-direction-nav .flex-prev {left:0px;}
+.flexslider:hover .flex-next {opacity: 0.8; right: 0px;}
+.flexslider:hover .flex-prev {opacity: 0.8; left: 0px;}
+.flexslider:hover .flex-next:hover, .flexslider:hover .flex-prev:hover {opacity: 1;}
+.flex-direction-nav .flex-disabled {opacity: .3!important; filter:alpha(opacity=30); cursor: default;}
+.flex-direction-nav{ position:absolute; width:100%; top:60%;}
+/* Control Nav */
+.flex-control-nav {width: 100%; position: absolute; bottom: 2px; text-align: center; display:none;}
+.flex-control-nav li {margin: 0 6px; display: inline-block; zoom: 1; *display: inline;}
+.flex-control-paging li a {width: 11px; height: 11px; display: block; background: #666; background: rgba(0,0,0,0.5); cursor: pointer; text-indent: -9999px; -webkit-border-radius: 20px; -moz-border-radius: 20px; -o-border-radius: 20px; border-radius: 20px; box-shadow: inset 0 0 3px rgba(0,0,0,0.3);}
+.flex-control-paging li a:hover { background: #333; background: rgba(0,0,0,0.7); }
+.flex-control-paging li a.flex-active { background: #000; background: rgba(0,0,0,0.9); cursor: default; }
+
+.flex-control-thumbs {margin: 5px 0 0; position: static; overflow: hidden;}
+.flex-control-thumbs li {width: 25%; float: left; margin: 0;}
+.flex-control-thumbs img {width: 100%; display: block; opacity: .7; cursor: pointer;}
+.flex-control-thumbs img:hover {opacity: 1;}
+.flex-control-thumbs .flex-active {opacity: 1; cursor: default;}
+
+
+.about-us-banne .flex-direction-nav a.flex-next{background: url(../images/about-us-banner-nex.png) left top no-repeat; width:87px; height:89px;}
+.about-us-banne .flex-direction-nav a.flex-prev{background: url(../images/about-us-banner-prev.png) left top no-repeat; width:87px; height:89px;}
+.banner-case-studyproduct .flex-control-nav{display:block;}
+.banner-case-studyproduct .flex-control-nav {width: 100%; position: absolute; bottom:6px; text-align: center; display:inline-block;}
+.banner-case-studyproduct .flex-viewport{padding-bottom:70px;}
+.banner-case-studyproduct .flex-control-paging li a{ background:#5d5d5d; border:0px; height:9px; width:9px; box-shadow:none;}
+.banner-case-studyproduct .flex-control-paging li a.flex-active{height:7px; width:7px; border:2px solid #5d74bd; background:none; margin-top:1px; vertical-align:-1px;}
+.banner-case-studyproduct .flex-direction-nav a.flex-next{background: url(../images/case-study-banner-next.jpg) left top no-repeat; width:80px; height:80px;}
+.banner-case-studyproduct .flex-direction-nav a.flex-prev{background: url(../images/case-study-banner-prev.jpg) left top no-repeat; width:80px; height:80px;}
+.banner-case-studyproduct .flex-direction-nav{top:45%;}
+
+
+
+@media screen and (max-width: 860px) {
+  .flex-direction-nav .flex-prev {opacity: 0; left: 0;}
+  .flex-direction-nav .flex-next {opacity: 0; right: 0;}
+}
