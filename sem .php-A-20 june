@@ -2,6 +2,7 @@
 
 
 
+
 <!--popup Start-->
 
 <div class="blk-overlay"></div>
@@ -276,13 +277,13 @@ jQuery('#request-proposal-open').click(function(){
 
     <ul class="tab-links boxes">
 
-        <li class="active"><a href="#tab1">Search Engine Optimization</a></li>
+        <li ><a href="#tab1">Search Engine Optimization</a></li>
 
         <li><a href="#tab2">Social Media Marketing</a></li>
 
         <li><a href="#tab3">Email Newsletter</a></li>
 
-        <li><a href="#tab4">Search Engine Marketing</a></li>
+        <li class="active"><a href="#tab4">Search Engine Marketing</a></li>
 
         <li><a href="#tab5">Content Marketing</a></li>
 
@@ -306,12 +307,9 @@ jQuery('#request-proposal-open').click(function(){
 
         <div id="tab1" class="tab active">
 
-    <!--<p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>-->
-	
-<p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>
+            <p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>
 
-
-    </div>
+        </div>
 
 
 
@@ -333,7 +331,14 @@ jQuery('#request-proposal-open').click(function(){
 
         <div id="tab4" class="tab">
 
-            <p>PPC lets make your brand visible through sponsored links including benefits such as instant rankings, keyword targeting etc.</p>
+ <p>PPC lets make your brand visible through sponsored links including benefits such as instant rankings, keyword targeting etc.</p>
+ 
+ 
+
+
+ 
+ 
+ 
 
         </div>
 
@@ -694,35 +699,228 @@ jQuery('#request-proposal-open').click(function(){
 <img src="images/new/long.png" width="37" height="37" alt="SEO"> <a href="#">Long Tail SEO Keyword Research</a>
 
 
+
+
+
+
+
 <p>Long tail keywords are easier to rank for because there is less competition. They convert better. And, they help sites eventually rank for the more competitive keywords.</p>
 
+
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
 
 <li>
+
+
+
 <img src="images/new/seo.png" width="37" height="37" alt="SEO"> <a href="#">SEO Audit & Website Review</a>
+
+
+
+
+
+
+
 <p>Aggregate the top SEO audit tools into one, easy to read report.</p>
 
+
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
+
 <li>
 
 <img src="images/new/wordpress.png" width="37" height="37"> <a href="#">WordPress Website Development</a>
+
+
+
+
+
+
+
 <p>Our WordPress website development services can have you a responsive, SEO friendly and secure website in less than a week.</p>
 
 
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </ul>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="block computer-img">
 
+
+
+
+
+
+
   <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
 
   <a href="#">request for company profile</a>
 
+
+
+
+
+
+
   </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
@@ -1210,6 +1408,18 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="top content_Block content_Block2 verticals">
 
 
@@ -1448,13 +1658,52 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 </li>
 
+
+
+
+
+
+
 <li>
+
+
+
+
+
+
+
 <h5>Content Marketing:</h5>
+
+
+
+
+
+
+
 <p> Content marketing is the major part of the digital marketing, as it gives out a clear message along with attractive images to capture the audience attention.</p>
 
 
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
 <li>
+
+
+
+
+
+
+
 <h5>Affiliate Marketing:</h5>
 
 
@@ -1867,26 +2116,26 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-1">What is Search Engine Optimization?</a>
+        <a class="accordion-section-title" href="#accordion-1"> What is Search Engine Marketing?</a>
 
          
 
         <div id="accordion-1" class="accordion-section-content">
 
-          <p>Search engine optimization encompasses all the processes
- that intent to optimize a website for better search engine rankings.
- Enticing relevant visitors to a website, SEO is the best measure
- that works well to establish site’s credibility and enhance brand 
- awareness among people. With the incorporation of search engine 
- friendly elements, the process followed upscale the website’s 
- visibility on organic search engine result pages (SERP).</p> 
+            <p>The form of internet marketing collaborating research, submission and website’s
+ ranking within the search results is called search engine marketing. Search engine
+ marketing is conducted to attain the maximum visibility and upgrade the shares of
+ paid traffic from various search engines. With the increasing competition in the
+ market place, search engine marketing accords the businesses with a platform to
+ promote the products and services on a larger level.</p> 
  
-<p>SEO is defined as, “a methodology of strategies, techniques,
- and tactics to increase the visitors number to a website by
- obtaining high-ranking placement in the search results.”
- One should not think that SEO is all about designing search
- engine friendly websites, but it is about making the site
- better for the people and to fetch their attraction.</p> 
+<p>Involving paid advertisements reflecting on the search engine results pages
+ (SERPs), SEM now rules the market place offering the advertisers the opportunity
+ to place their ads in front of potent consumers. A thorough keyword research
+ lays the foundation of SEM as it makes a comprehensive part of the keyword
+ management strategy. Identify the prospective keywords for your business
+ which the customers are likely to use while searching.</p>
+
 
         </div><!--end .accordion-section-content-->
 
@@ -1896,36 +2145,27 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-2">Why Does Your Website Need SEO?</a>
+        <a class="accordion-section-title" href="#accordion-2">Pay Per Click</a>
 
          
 
         <div id="accordion-2" class="accordion-section-content">
 
-           <p>Today, the dominant commercial search engines Google,
- Bing, and Yahoo maintain the major web traffic.
- Search engines are the basic method of navigation
- for maximum internet users, even though the market 
- is flooded with the advent of many social media and
- other relevant traffic. No matter what your website
- offers, search engine focus on providing targeted 
- traffic on your web page. However, if the search 
- engines miss your site or your content is not visible
- in the databases; your business may miss out certain
- incredible opportunities for improved results.</p> 
-
- <p>SEO generates important leads that result in higher
- conversion rates for the outbound leads. Blogging increases
- the website traffic if the content is correctly optimized 
- for the search results and the SEO techniques ensure visibility
- of the blog posts and shifts the traffic towards your web page.</p> 
-
-<p>A new world of SEO techniques has opened up like local search
- optimization, as more of the traffic is shifted to the mobile devices,
- overcoming the traffic delivered to the traditional desktop devices.
- SEO is a never ending process as more of the competitors have plunged
- into it. Since SEO tracks and ranks the efficacy
- of your website, it makes you stand out in the market.</p>
+            <p>Organizations across the globe are exploiting the internet marketing
+ formula to increase brand awareness and customer obligations.
+ Pay per Click or PPC is a paid online advertising platform adopted
+ on a broad range of websites including the numerous search engines
+ to set a price on online advertisements. As the name itself suggests,
+ the advertiser will pay if the web user clicks the particular ads.
+ PPC campaigns include paying Google to list the ads on top of the
+ organic search results. Search engines like Google and Bing grant
+ business platform to purchase listings within the search results.
+ The listing appears amidst the natural and non-paid search results.</p> 
+ 
+<p>Being one of the prominent forms of PPC, 
+search engine advertising authorizes the advertisers 
+to propose ad placement within the sponsored links of the search engines.</p>
+  
 
         </div><!--end .accordion-section-content-->
 
@@ -1935,45 +2175,38 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-3">Impressive SEO Campaigns</a>
+        <a class="accordion-section-title" href="#accordion-3">Cost Per Clicks (CPC)</a>
 
          
 
         <div id="accordion-3" class="accordion-section-content">
 
-        <p>The impressive SEO campaign involves a process of six steps to gain the maximum results. The basic steps include</p>
+         <p>Being adopted in online advertising, Cost per Clicks is 
+defined as the revenue generated by a publisher, every time
+ a user clicks on the advertisement link reflected on the website.
+ A click exemplifies a visit or a communication with the company’s
+ product or the services delivered. This draws the attention as to
+ what you are buying as an advertiser. The value of average CPC
+ fluctuates according to the distinct industry and business.
+ However, as an advertiser, it should be that CPC will be either
+ equal to or less than the maximum bid. Depending on the working 
+ of Google Adwords, The CPC is leveraged by the ad rank of your
+ closest competitor and the bid made in the auction.</p>
 
-<p> • <strong> Keyword Research:</strong> Keyword optimization is the fundamental step of the SEO process.
- The keyword searched should be an amalgamation of high usage by the researchers
- and that get low competition in the search engines. A considerable
- time is devoted to finding out the most relevant keywords to
- set the campaign in the correct direction.</p>
 
-<p> • <strong> Competitive Research:</strong> After a thorough keyword research,
- the next step is to analyze the position of the target site in the search
- engines. For this, we make use of SEO matrices, indexing content,
- inbound links and domain age and many others. The research
- enables you to specify the position of your client’s website
- with its potent competitors and also identifying areas
- needing work on a priority basis.</p> 
+<p>Cost per Clicks serves a wide array of benefits as its
+ numerical value will analyze the financial prosperity of
+ the relevant paid search campaigns. The investment reflects
+ the quality you achieve in return for the payment done by you.
+ Cost per clicks bring the maximum traffic and generate leads to
+ the website. Thus, upscaling the online visibility and fostering
+ the brand name among the brand leaders.</p>
 
-<p> • <strong> Content Building:</strong> Content should be the priority
- for search engine optimization. For enhancing the position in the
- search results, that content quality should be high and related
- to the respective business domain. If the site has the most
- relevant content, it will compel the user to stay and to 
- revert for the content.</p> 
-
-<p> • <strong> Page Optimization:</strong> Once the keyword research and content
- building is over, the next priority is given to on page optimization.
- This includes page titles, text-based navigation, site mapping,
- Meta descriptions and cleaning up the code.</p>
-
-<p> • <strong> Follow Up:</strong> The reporting conducted at
- the beginning of the SEO campaign should be done at regular
- intervals including post optimization, ranking, website
- traffic levels and other relevant matrices to give 
- commendable results in SEO campaigns.</p>
+<p>CPC comes with two varied models: flat-rate CPC and bid-based CPC.
+ In the flat rate CPC, an agreement on fixed rate is made between 
+ the advertiser and the publisher in advance. While in bid based CPC,
+ higher the bid made, more chances the ad will be reflected on the internet.
+ One of the common examples of bid based CPC is Google AdWords.</p>
 
 
 
@@ -1985,88 +2218,120 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-4">What is On Page Optimization?</a>
+        <a class="accordion-section-title" href="#accordion-4">Google AdWords</a>
 
          
 
         <div id="accordion-4" class="accordion-section-content">
 
-        <p>Digital Marketing is evolving every day and is a nonstop change in the marketing world. It has changed the pursuit of many companies, extending the business verticals in many directions. Earlier in 2015, apart from focusing on search engine optimization, brands also shifted their concern towards creating effective content.</p> 
-<p>On Page Search Engine Optimization refers to all
- the measures that affect the listing of your website 
- in the natural search results. Techniques like pages
- titles, Meta tags, and descriptions that influences 
- search engine ranking. The various techniques for 
- an effective On-Page search engine optimization are mentioned below:</p>
+     <p>Google has designed a system to help in the marketing
+ of the relevant products and services in the Google Search
+ Engine and other sites. As an advertising service,
+ Google AdWords is employed by the businesses to display ads
+ on various affiliated networks. Emphasizing on the keywords,
+ the adword programs empowers the business to
+ decide a budget for the advertisement.</p>
 
-<p><strong>Page Title Optimization:</strong> Being an essential SEO factor,
- each page of your website should have its unique title including 
- the relevant keywords. The title tag includes the business name,
- keywords, as it is the primary thing that is reflected by the search engines.</p> 
+<p>A lucrative AdWord campaign incorporates the target audience,
+ the geographical space, relevant keywords and the budget
+ set for the advertisement, thus designing fruitful results
+ within the minimal time frame. If the user clicks on the AdWords,
+ he is automatically directed to the website. Keyword matches are of various kinds:</p> 
 
-<p><strong>Meta Description Optimization:</strong> Meta descriptions accord the relevant
- space to incorporate keywords for your content, as these descriptions
- are used in the search results when your page is listed.</p> 
+<p> • Broad Matches: Broad match covers the maximum users when the prospective keyword is looked for.</p>
 
-<p><strong>URL Structure:</strong> Improved crawling is achieved by
- including search engine friendly URLs. URLs crisp in 
- length and targeted keywords perform better in the search results.</p> 
+<p> • Phrase Match: Ad visibility depends on the matching of the exact phrase mentioned.</p> 
 
-<p><strong>Keyword Density:</strong> Keep the keyword density around 3-5%,
- as your usage of a keyword may result in your site brings banned
- from the search engines. Appropriate application of keyword is important.</p>
+<p> • Negative Match: It inhibits your ad visibility when the keyword is searched for.</p>
 
-<p><strong>HTML Tags:</strong> Dividing the content into smaller and 
-relevant sections make it accessible for the users to read and analyze.
- The sections can be divided into heading like H1, H2, H3 etc tags.
- Keyword rich headlines are more competent than the usual headlines.</p>  
-
-<p><strong>Internal Linking:</strong> Internals can be used as the best 
-tools in search engine optimization and upgrade the site’s 
-visibility. Internal linking can be done by two potent 
-methods such as content linking and permanent navigation links.</p>
+<p>With the ever growing demand to rule the market world,
+ the brands utilize Google AdWords to attain the maximum benefits.
+ It accords you with a lot of perks. Google AdWords can be measured
+ and analyzed enabling you to perceive the investment made and ROI.
+ The campaigns can be optimized with a tremendous speed allowing 
+ your prospects to visualize the ads as quickly as possible.
+ Being cost effective, it provides the advertisers various
+ platforms to tweak your campaigns.</p>
 
 
-        </div>
-    </div><!--end .accordion-section-content-->
-        <div class="accordion-section">
+        </div><!--end .accordion-section-content-->
 
-        <a class="accordion-section-title" href="#accordion-5">What is Link Building?</a>
+    </div>
+
+    <div class="accordion-section">
+
+        <a class="accordion-section-title" href="#accordion-5">Bing Ads</a>
 
          
 
         <div id="accordion-5" class="accordion-section-content">
 
-        <p>One of the considerable factors of SEO is link
- building which implies the medium of getting 
- links to your website. Discovering new web pages
- and page ranking in their results are the two
- fundamental ways by which search engines utilizes links
- . Being a critical aspect, link building requires
- creativity and a good budget. To acquire the best
- results, link building strategies should include
- guest postings, developing info graphics, 
- designing viral content, evaluating competitor
- links, constructing links over the email,
- directory submission, social bookmarking
- website, writing pillar and epic content.</p>
+     <p>With the onset of the pay per click advertising across
+ all the internet channels, the brands are realizing the gravity of AdWords.
+ Bing Ads are likely to rule the advertising world in the near future as
+ enables you to influence a larger customer base along with upgraded returns.
+ Sometimes referred as Yahoo Bing Network, Bing ad is an advertising
+ platform to showcase business ads on Bing and Yahoo search engines
+ along with your syndicated partners like facebook, Amazon, Viacom and others.</p> 
 
-<p>Back links refer to the links that visit from the other
- websites to yours. They are so called owing to pointing
- back your relevant page. Back links enhance the site’s
- search engine optimization. Link building serves many benefits like:</p>
+<p>Bing Adwords has made considerable profits in the search results,
+ thereby portraying a wider market share. Contrary to belief, 
+ the Bing Ads syndicated search partners drive huge traffic 
+ and evaluate the quality score using different measures.</p> 
 
-<p> • Link building upgrades the blog’s visibility in the search outcome.</p> 
+        </div><!--end .accordion-section-content-->
 
-<p> • Better quality content ensures better quality incoming links. This results in more traffic on the webpage.</p> 
+    </div>
+     <div class="accordion-section">
 
-<p> • Indexing becomes easier in the search results with the facility of link building.</p>
+        <a class="accordion-section-title" href="#accordion-6">Mobile Search Advertising</a>
 
-<p> • The traffic of the other websites is also directed towards your web page.</p>
+         
 
+        <div id="accordion-6" class="accordion-section-content">
 
+     <p>Approximately 90% of the customers don’t step out from home
+ without mobile phones and perform maximum searches from the
+ devices every day. Therefore, large domains of businesses
+ have shifted to mobile search advertising with the recent
+ developments made to the Google AdWords. Its implementation
+ has resulted as the best path for the brands to reach their
+ prospective consumers. However, the marketers are looking forward
+ to boost the performance of the mobile search Advertising.</p>
 
-        </div>
+<p>With the ever growing advent of technology,
+ mobile search advertising will outperform the desktop searching strategy.
+ Based on the respective demographics, the mobile networks acknowledge 
+ the mobile profiles, displaying the advertisements as soon as the users
+ download any data or application. The advertising can be carried out in
+ varied ways such as mobile web, multimedia messaging services, videos and mobile applications.</p> 
+
+        </div><!--end .accordion-section-content-->
+
+    </div>
+     <div class="accordion-section">
+
+        <a class="accordion-section-title" href="#accordion-7">Geo-targeting</a>
+
+         
+
+        <div id="accordion-7" class="accordion-section-content">
+
+     <p>Geotargeting encompasses all the AdWord features allowing
+ your ads to be visible in a certain geographical location.
+ However, it might be challenging to the PPC advertisers to
+ target the limited location owing to cookies or browser
+ privacies which further limit the customer’s reach.
+ Various tactics can be employed for geo-targeting
+ like a campaign targeting bid adjustment, multiple
+ campaigns targeting single or multiple locations.
+ Focusing on the usage of keywords, geo-targeting 
+ a specific area will result in major benefits.</p>
+
+ 
+ 
+ 
+        </div><!--end .accordion-section-content-->
 
     </div>
 

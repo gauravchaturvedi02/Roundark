@@ -276,7 +276,7 @@ jQuery('#request-proposal-open').click(function(){
 
     <ul class="tab-links boxes">
 
-        <li class="active"><a href="#tab1">Search Engine Optimization</a></li>
+        <li ><a href="#tab1">Search Engine Optimization</a></li>
 
         <li><a href="#tab2">Social Media Marketing</a></li>
 
@@ -296,7 +296,7 @@ jQuery('#request-proposal-open').click(function(){
 
         <li><a href="#tab10">Market Place</a></li>
 
-        <li><a href="#tab11">Local</a></li>       
+        <li class="active"><a href="#tab11">Local</a></li>       
 
     </ul>
 
@@ -306,12 +306,9 @@ jQuery('#request-proposal-open').click(function(){
 
         <div id="tab1" class="tab active">
 
-    <!--<p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>-->
-	
-<p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>
+            <p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>
 
-
-    </div>
+        </div>
 
 
 
@@ -391,8 +388,9 @@ jQuery('#request-proposal-open').click(function(){
 
         <div id="tab11" class="tab">
 
-            <p>Nowadays, it has become easier for the businesses to grow implying search engines that place them in their local search results. Local SEO allows your business to stand out distinct in the SERPs.</p>
+        <p>Nowadays, it has become easier for the businesses to grow implying search engines that place them in their local search results. Local SEO allows your business to stand out distinct in the SERPs.</p>
 
+		
         </div>
 
 		
@@ -694,35 +692,228 @@ jQuery('#request-proposal-open').click(function(){
 <img src="images/new/long.png" width="37" height="37" alt="SEO"> <a href="#">Long Tail SEO Keyword Research</a>
 
 
+
+
+
+
+
 <p>Long tail keywords are easier to rank for because there is less competition. They convert better. And, they help sites eventually rank for the more competitive keywords.</p>
 
+
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
 
 <li>
+
+
+
 <img src="images/new/seo.png" width="37" height="37" alt="SEO"> <a href="#">SEO Audit & Website Review</a>
+
+
+
+
+
+
+
 <p>Aggregate the top SEO audit tools into one, easy to read report.</p>
 
+
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
+
 <li>
 
 <img src="images/new/wordpress.png" width="37" height="37"> <a href="#">WordPress Website Development</a>
+
+
+
+
+
+
+
 <p>Our WordPress website development services can have you a responsive, SEO friendly and secure website in less than a week.</p>
 
 
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </ul>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="block computer-img">
 
+
+
+
+
+
+
   <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
 
   <a href="#">request for company profile</a>
 
+
+
+
+
+
+
   </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
@@ -1210,6 +1401,18 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="top content_Block content_Block2 verticals">
 
 
@@ -1448,13 +1651,52 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 </li>
 
+
+
+
+
+
+
 <li>
+
+
+
+
+
+
+
 <h5>Content Marketing:</h5>
+
+
+
+
+
+
+
 <p> Content marketing is the major part of the digital marketing, as it gives out a clear message along with attractive images to capture the audience attention.</p>
 
 
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
 <li>
+
+
+
+
+
+
+
 <h5>Affiliate Marketing:</h5>
 
 
@@ -1861,32 +2103,54 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
-
-
 <div class="accordion-new">
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-1">What is Search Engine Optimization?</a>
+        <a class="accordion-section-title" href="#accordion-1">Prospective customer are searching your business locally.
+    Connect with them through effective local search marketing</a>
 
          
 
         <div id="accordion-1" class="accordion-section-content">
 
-          <p>Search engine optimization encompasses all the processes
- that intent to optimize a website for better search engine rankings.
- Enticing relevant visitors to a website, SEO is the best measure
- that works well to establish site’s credibility and enhance brand 
- awareness among people. With the incorporation of search engine 
- friendly elements, the process followed upscale the website’s 
- visibility on organic search engine result pages (SERP).</p> 
- 
-<p>SEO is defined as, “a methodology of strategies, techniques,
- and tactics to increase the visitors number to a website by
- obtaining high-ranking placement in the search results.”
- One should not think that SEO is all about designing search
- engine friendly websites, but it is about making the site
- better for the people and to fetch their attraction.</p> 
+         <p>With 1 in 3 of the Google searches being for local businesses,
+ it has got imperative for every business to get their website onto
+ the first page of Google in the local area. Local SEO is a lot different 
+ from traditional SEO campaign. If you own a local business, you cannot
+ rely only on traditional SEO campaigns to get on the top of local search results.</p> 
+
+<p>In the highly competitive market, Local SEO is a strong weapon for the small
+ businesses to stand out in the SERPs. But this needs a thorough understanding 
+ of local ranking factors, different tools, strategies and other factors that
+ can help you rise to the top of organic results.</p>
+        </div><!--end .accordion-section-content-->
+
+    </div><!--end .accordion-section-->
+
+    
+
+    <div class="accordion-section">
+
+        <a class="accordion-section-title" href="#accordion-2">What is local search?</a>
+
+         
+
+        <div id="accordion-2" class="accordion-section-content">
+
+            <p>In broader terms, Local SEO is just a subset of the overall website
+ optimization process for the improved rankings and search results.
+ Focus of this marketing strategy is on the searches that include
+ geographic modifiers such as “book shop in Delhi” or “the best restaurant near me.”</p>
+
+<p>At large it might look similar to organic SEO, but it is very different from it. 
+The focus of local SEO is on offering better results to the searchers as per their
+ current location. For instance, if you search for ‘best Italian restaurant’
+ on your mobile phone or the desktop, Google will give you the list of restaurants that are nearest to you.</p> 
+
+<p>Top rankings in local searches include a combination of general
+ SEO best practices and some selected strategies effective only for local results.</p>
+
 
         </div><!--end .accordion-section-content-->
 
@@ -1896,84 +2160,64 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-2">Why Does Your Website Need SEO?</a>
-
-         
-
-        <div id="accordion-2" class="accordion-section-content">
-
-           <p>Today, the dominant commercial search engines Google,
- Bing, and Yahoo maintain the major web traffic.
- Search engines are the basic method of navigation
- for maximum internet users, even though the market 
- is flooded with the advent of many social media and
- other relevant traffic. No matter what your website
- offers, search engine focus on providing targeted 
- traffic on your web page. However, if the search 
- engines miss your site or your content is not visible
- in the databases; your business may miss out certain
- incredible opportunities for improved results.</p> 
-
- <p>SEO generates important leads that result in higher
- conversion rates for the outbound leads. Blogging increases
- the website traffic if the content is correctly optimized 
- for the search results and the SEO techniques ensure visibility
- of the blog posts and shifts the traffic towards your web page.</p> 
-
-<p>A new world of SEO techniques has opened up like local search
- optimization, as more of the traffic is shifted to the mobile devices,
- overcoming the traffic delivered to the traditional desktop devices.
- SEO is a never ending process as more of the competitors have plunged
- into it. Since SEO tracks and ranks the efficacy
- of your website, it makes you stand out in the market.</p>
-
-        </div><!--end .accordion-section-content-->
-
-    </div>
-
-    
-
-    <div class="accordion-section">
-
-        <a class="accordion-section-title" href="#accordion-3">Impressive SEO Campaigns</a>
+        <a class="accordion-section-title" href="#accordion-3">How to get impressive results in local SEO?</a>
 
          
 
         <div id="accordion-3" class="accordion-section-content">
 
-        <p>The impressive SEO campaign involves a process of six steps to gain the maximum results. The basic steps include</p>
+         <p>Getting the best results in Local SEO is not a one day task.
+ It is a lengthy process that needs proper planning and apt execution of the strategies.
+ Unlike link building in organic SEO, you don’t have to focus on this in local SEO.
+ This is more about effective local NAP citation, local reviews, and My Business signals.</p> 
 
-<p> • <strong> Keyword Research:</strong> Keyword optimization is the fundamental step of the SEO process.
- The keyword searched should be an amalgamation of high usage by the researchers
- and that get low competition in the search engines. A considerable
- time is devoted to finding out the most relevant keywords to
- set the campaign in the correct direction.</p>
+<p>This is a blend of various factors, which you need to address systematically.
+ The whole objective behind all the activities for Local SEO is to help people feel
+ comfortable on your website. To get top ranks and happy customers you should focus on:</p> 
 
-<p> • <strong> Competitive Research:</strong> After a thorough keyword research,
- the next step is to analyze the position of the target site in the search
- engines. For this, we make use of SEO matrices, indexing content,
- inbound links and domain age and many others. The research
- enables you to specify the position of your client’s website
- with its potent competitors and also identifying areas
- needing work on a priority basis.</p> 
+<p><strong>Google Places:</strong> This is the very first step in the local business optimization process.
+ Don’t forget to claim your business on Google Places for Business page.
+ Further, ensure that the contact information, business address, and other
+ important details are complete. Make it easier for Google to find you easily
+ when people looking for businesses in a specific category by providing clear
+ and precise category information.</p>
 
-<p> • <strong> Content Building:</strong> Content should be the priority
- for search engine optimization. For enhancing the position in the
- search results, that content quality should be high and related
- to the respective business domain. If the site has the most
- relevant content, it will compel the user to stay and to 
- revert for the content.</p> 
+<p> • The important details in Google My Business include:</p> 
 
-<p> • <strong> Page Optimization:</strong> Once the keyword research and content
- building is over, the next priority is given to on page optimization.
- This includes page titles, text-based navigation, site mapping,
- Meta descriptions and cleaning up the code.</p>
+<p> • Long and unique description with correct links</p>
 
-<p> • <strong> Follow Up:</strong> The reporting conducted at
- the beginning of the SEO campaign should be done at regular
- intervals including post optimization, ranking, website
- traffic levels and other relevant matrices to give 
- commendable results in SEO campaigns.</p>
+<p> • Pick the right category</p>
+
+<p> • Upload high-quality photos</p>
+
+<p> • Add business address and phone number</p>
+
+<p> • Add opening time</p>
+
+<p> • Ger customer reviews</p>
+
+<p><strong>On-page local SEO:</strong> Address is the most important part of local business.
+ You should maintain a consistency while mentioning business address at different locations.
+ Be it listing or local page optimization on the website,
+ you should use the address in a consistent format. 
+ The title tag of the page should have a brand name, targeted keyword and the location.</p>
+
+<p>You can also embed a map on your ‘contact us’ page to get better rankings in local SEO.</p> 
+
+<p><strong>Local link building:</strong> Link building and citation are equally important for local
+ SEO as these are for organic SEO. The tragedy is that this is one of the most overlooked 
+ parts of the local SEO. Like standard SEO campaigns, local SEO also relies on
+ high-quality links from other local and relevant businesses. The only different
+ between the link building for organic SEO and local SEO is that the former 
+ focuses on high authority websites while the later is about getting links
+ from local websites that are talking about the similar business like yours.</p> 
+
+<p><strong>Local reviews:</strong> Reviews have a strong impact on the decision-making process of the online
+ buyers as well as on your rankings. So you should make honest efforts to acquire real reviews
+ from the users. Local reviews are not just about Google reviews; these also include user
+ reviews on local directories like Yelp.
+ You can get in touch with your customers to request them for a review.</p>
+
 
 
 
@@ -1985,88 +2229,57 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-4">What is On Page Optimization?</a>
+        <a class="accordion-section-title" href="#accordion-4">Why is expert support important?</a>
 
          
 
         <div id="accordion-4" class="accordion-section-content">
 
-        <p>Digital Marketing is evolving every day and is a nonstop change in the marketing world. It has changed the pursuit of many companies, extending the business verticals in many directions. Earlier in 2015, apart from focusing on search engine optimization, brands also shifted their concern towards creating effective content.</p> 
-<p>On Page Search Engine Optimization refers to all
- the measures that affect the listing of your website 
- in the natural search results. Techniques like pages
- titles, Meta tags, and descriptions that influences 
- search engine ranking. The various techniques for 
- an effective On-Page search engine optimization are mentioned below:</p>
+         <p>Local SEO is a lengthy process that needs commitment,
+ deep knowledge and ample time, which you might lack due to 
+ other business responsibilities. Further, the online world
+ is highly flexible with new updates from Google every now and then.
+ Ignorance of these changes and updates can put your business at risk
+ and affect your rankings. Some of the compelling reasons to
+ take help of experts for effective local SEO are:</p>
 
-<p><strong>Page Title Optimization:</strong> Being an essential SEO factor,
- each page of your website should have its unique title including 
- the relevant keywords. The title tag includes the business name,
- keywords, as it is the primary thing that is reflected by the search engines.</p> 
+<p> • They know the rules and regulations applicable in your area</p>
 
-<p><strong>Meta Description Optimization:</strong> Meta descriptions accord the relevant
- space to incorporate keywords for your content, as these descriptions
- are used in the search results when your page is listed.</p> 
+<p> • They understand the Google algorithm and ranking factors</p>
 
-<p><strong>URL Structure:</strong> Improved crawling is achieved by
- including search engine friendly URLs. URLs crisp in 
- length and targeted keywords perform better in the search results.</p> 
+<p> • They have experience of working for your target audience</p>
 
-<p><strong>Keyword Density:</strong> Keep the keyword density around 3-5%,
- as your usage of a keyword may result in your site brings banned
- from the search engines. Appropriate application of keyword is important.</p>
+<p> • They can provide quick response when your clients need you</p>
+        </div><!--end .accordion-section-content-->
 
-<p><strong>HTML Tags:</strong> Dividing the content into smaller and 
-relevant sections make it accessible for the users to read and analyze.
- The sections can be divided into heading like H1, H2, H3 etc tags.
- Keyword rich headlines are more competent than the usual headlines.</p>  
+    </div>
 
-<p><strong>Internal Linking:</strong> Internals can be used as the best 
-tools in search engine optimization and upgrade the site’s 
-visibility. Internal linking can be done by two potent 
-methods such as content linking and permanent navigation links.</p>
+    
 
+    <div class="accordion-section">
 
-        </div>
-    </div><!--end .accordion-section-content-->
-        <div class="accordion-section">
-
-        <a class="accordion-section-title" href="#accordion-5">What is Link Building?</a>
+        <a class="accordion-section-title" href="#accordion-5">Why work with Round Ark?</a>
 
          
 
         <div id="accordion-5" class="accordion-section-content">
 
-        <p>One of the considerable factors of SEO is link
- building which implies the medium of getting 
- links to your website. Discovering new web pages
- and page ranking in their results are the two
- fundamental ways by which search engines utilizes links
- . Being a critical aspect, link building requires
- creativity and a good budget. To acquire the best
- results, link building strategies should include
- guest postings, developing info graphics, 
- designing viral content, evaluating competitor
- links, constructing links over the email,
- directory submission, social bookmarking
- website, writing pillar and epic content.</p>
+      <p>If you have tried your hand on local SEO and failed to get results,
+ it is a right time to join hands with Round Ark to take your local
+ business to a whole new level. Round Ark is a team of SEO experts who 
+ strive to help you get more traffic, qualified leads and more exposure
+ in limited budget. We have experience of offering unmatched local
+ SEO services to hundreds of business all across the world.
+ Our goal is to help you grow with more customers. 
+ We understand the importance of local SEO and the difference
+ local presence can make for your business.</p>
 
-<p>Back links refer to the links that visit from the other
- websites to yours. They are so called owing to pointing
- back your relevant page. Back links enhance the site’s
- search engine optimization. Link building serves many benefits like:</p>
-
-<p> • Link building upgrades the blog’s visibility in the search outcome.</p> 
-
-<p> • Better quality content ensures better quality incoming links. This results in more traffic on the webpage.</p> 
-
-<p> • Indexing becomes easier in the search results with the facility of link building.</p>
-
-<p> • The traffic of the other websites is also directed towards your web page.</p>
+<p>Interested in a result oriented local SEO campaign? Contact us today for free consultation.</p> 
+	
 
 
 
-        </div>
+        </div><!--end .accordion-section-content-->
 
     </div>
 

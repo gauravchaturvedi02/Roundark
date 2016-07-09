@@ -807,19 +807,19 @@ jQuery('#request-proposal-open').click(function(){
 
 
         <li><a href="/search-engine-optimization.php"><h3>Search Engine Optimization</h3>
-                <img src="images/seo (2).png"/>
+                <img src="images/seo.png"/>
         <p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p></a></li>
 
 
 
         <li><a href="/social-media-marketing2.php"><h3>Social Media Marketing</h3>
-                <img src="images/smmm.png"/>
+                <img src="images/smm.png"/>
          <p>Social media is the latest trend as it allows your brand to connect to a large number of customers and thus strengthening its reputation.</p></a></li>
 
 
 
         <li><a href="/email-newsletter.php"><h3>Email Newsletter</h3>
-                <img src="images/eml.png"/>
+                <img src="images/emailn.png"/>
         <p>Thinking email newsletter is a thing of past, you may be probably wrong. Email Newsletter gives another place to connect with the website or related products, along with better deals. </p></a></li>
 
 
@@ -849,7 +849,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
         <li><a href="/online-reputation-management.php"><h3>Online Reputation Management</h3>
-                <img src="images/orep.png"/>
+                <img src="images/reputation.png"/>
         <p>The act of monitoring and mitigating search engine result pages is called online reputation management. It provides an overview of the internet search to the respective business. </p></a></li>
 
 
@@ -1362,7 +1362,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Brand Strategies</a>
+<img src="images/brands.png" width="37" height="37"> <a href="#">Brand Strategies</a>
 
 
 
@@ -1402,7 +1402,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Media Planning</a>
+    <img src="images/mediaplan.png" width="37" height="37"> <a href="#">Media Planning</a>
 
 
 
@@ -1438,7 +1438,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Advertising Campaigns</a>
+    <img src="images/addcamp.png" width="37" height="37"> <a href="#">Advertising Campaigns</a>
 
 
 
@@ -1474,7 +1474,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Web Developments</a>
+    <img src="images/webdev.png" width="37" height="37"> <a href="#">Web Developments</a>
 
 
 
@@ -1510,7 +1510,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Site Optimization</a>
+    <img src="images/siteopt.png" width="37" height="37"> <a href="#">Site Optimization</a>
 
 
 
@@ -1546,228 +1546,21 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">E-Commerce Solutions</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <img src="images/e-commerce.png" width="37" height="37"> <a href="#">E-Commerce Solutions</a>
 
 
 <p>Providing an impeccable online shopping experience, we let you stand ahead of the competitors. The data tracking solutions aid to visualizing the results of an ecommerce store.</p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="block computer-img">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
   <a href="#">request for company profile</a>
@@ -2567,51 +2360,11 @@ jQuery('#request-proposal-open').click(function(){
 <li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Execute</h5>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <h5><img src="images/execute.png" width="37" height="37" alt="Monthly Management">Execute</h5>
 
 <p>Now comes the influential step, with the strategies planned and campaigns launched, we evaluate the details and hidden drawbacks. The execution process involves visual designs, content development, mobile development, social media management and SEO optimization.</p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
 
 
@@ -2619,103 +2372,21 @@ jQuery('#request-proposal-open').click(function(){
 <li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Adapt</h5>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <h5><img src="images/adapt.png" width="37" height="37" alt="Monthly Management">Adapt</h5>
 
 <p>The execution platform paves the way to analyze our marketing programs against the objectives and adapting the plans to scale up the results. We also adopt new measures to further amplify the marketing strategy.</p>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
 
 
 
 <li>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Measure</h5>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <h5><img src="images/measure.png" width="37" height="37" alt="Monthly Management">Measure</h5>
 
 <p>We measure the programs and performance based on the leading performance indicators and matrices. Once the project is live, we measure, test and analyze what factors are working and the improvement required. Tracking the consumer behavior, we evaluate the consumer data profiles and exploit it for stronger brand connection with the customers.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
 
 
@@ -2723,248 +2394,29 @@ jQuery('#request-proposal-open').click(function(){
 <li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Optimize</h5>
-
-
-
-
-
-
-
-
-
-
-
-
-
+    <h5><img src="images/optimize (2).png" width="37" height="37" alt="Monthly Management">Optimize</h5>
 
 
 <p>We need to keep moving in the real-time world and consistently look out for ways to make it superior. The data and outcomes are optimized to improve the final product. It is all about ongoing process, the constant movement to reach our defined goals for sales and let your brand grow powerful with a dramatic leap.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="block computer-img">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
   <img src="images/new/sidde-img.png" width="" height="" alt="Side Img"> 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
   </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
 
 
 
@@ -2972,54 +2424,11 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
 </div>
 
 
 
-
-
-
-
 </div>
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3027,64 +2436,9 @@ jQuery('#request-proposal-open').click(function(){
 <div class="top content_Block content_Block2 verticals">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="container">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="master">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3092,30 +2446,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="head">
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3125,110 +2456,20 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <p>OIndividuals across the globe browse through the internet to find out the relevant information about the particular product. Being a brand you must keep yourself aware of the digital marketing services. If you are not then probably you are missing the largest marketing opportunity. The varied digital marketing services are:</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="block">
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <ul>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3236,295 +2477,44 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <p>earch engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h5>Social Media Marketingt</h5>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p>Social media is the latest trend as it allows your brand to connect to a large number of customers and thus strengthening its reputation.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </li>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h5>Email Newsletter:</h5>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p>Thinking email newsletter is a thing of past, you may be probably wrong. Email Newsletter gives another place to connect with the website or related products, along with better deals. 
-
-
-
-
-
-
 
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h5>Search Engine Marketing:</h5>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p>PPC lets make your brand visible through sponsored links including benefits such as instant rankings, keyword targeting etc.</p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3533,62 +2523,14 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <p> Content marketing is the major part of the digital marketing, as it gives out a clear message along with attractive images to capture the audience attention.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </li>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3596,31 +2538,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <p> Affiliate marketing analytics and strategy is an important pillar of digital marketing services</p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3628,111 +2546,22 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h5>Technology:</h5>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <p>The audience engagement is increased from the website appearance. Your brand image in the market reflects the services offered. So building brand image is important from every perspective.</p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h5>Online Reputation Management:</h5>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3741,54 +2570,13 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
 </li>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3796,386 +2584,34 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-<p> App Store Optimization is done to optimize your mobile apps in order to achieve higher ranks in appâ€™s store search results. The app visibility increases the number of potential customers.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p> App Store Optimization is done to optimize your mobile apps in order to achieve higher ranks in app’s store search results. The app visibility increases the number of potential customers.</p>
 
 
 </li>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <h5>Market Place:</h5>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p>From a business perspective, it is important to understand the customers online. This improves results on online channels. An improved market place analysis brings you closer to customers and analyzes the competitors.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h5>Local:</h5>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p>Nowadays, it has become easier for the businesses to grow implying search engines that place them in their local search results. Local SEO allows your business to stand out distinct in the SERPs.</p>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </ul>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="block computer-img">
 
 
@@ -4297,21 +2733,6 @@ jQuery('#request-proposal-open').click(function(){
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
 
@@ -4419,11 +2840,6 @@ jQuery('#request-proposal-open').click(function(){
         <a class="accordion-section-title" href="#accordion-1">What Is Digital Marketing?</a>
 
 
-
-         
-
-
-
         <div id="accordion-1" class="accordion-section-content">
 
 
@@ -4492,7 +2908,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-            <p><p>Before, we ponder over the question which is better digital marketing or physical marketing? Let us have a glance at what exactly term marketing implies? Marketing incorporates methods to understand the prospect's need and based on that design products and services that will cater to the target audience. It also includes promotional activities, market research, and advertisement. </p>
+            <p>Before, we ponder over the question which is better digital marketing or physical marketing? Let us have a glance at what exactly term marketing implies? Marketing incorporates methods to understand the prospect's need and based on that design products and services that will cater to the target audience. It also includes promotional activities, market research, and advertisement. </p>
 
 
 
@@ -4516,7 +2932,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<ul>
+<p><ul>
 
 
 

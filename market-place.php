@@ -383,110 +383,9 @@ jQuery('#request-proposal-open').click(function(){
     <!--<p>From a business perspective, it is important to understand the customers online. This improves results on online channels. An improved market place analysis brings you closer to customers and analyzes the competitors.</p>-->
 
 	
-<p>Promote your business at leading marketplaces with authorized partners
-Contact experts at Round Ark</p> 
+<p>From a business perspective, it is important to understand the customers online. This improves results on online channels. An improved market place analysis brings you closer to customers and analyzes the competitors.</p> 
 
-<p>An online marketplace is an ecommerce website that
- connects the buyers and the sellers through the internet.
- This is a blessing for the small businesses with limited budget.
- By registering the business on these e-commerce websites,
- one does not need to invest in personal websites and marketing
- campaigns. Amazon, Alibaba, Etsy, eBay, OpenTable, and
- AirBnB are some of the leading marketplaces in varied
- industries having a global presence.</p> 
 
-<p>The e-marketplaces allow companies to list their products,
- obtain new buyers, develop a streamlined trading network 
- and make transactions. The sellers have to focus on sourcing,
- inventory listing, order management and customer support.
- While the technology, infrastructure, payment processing
- and risk management are the responsibilities of the 
- marketplace platform, getting leads and generating
- sales is the responsibility of the seller.</p> 
-
-<h3>How does it work?</h3>
-
-<p>The marketplace owners provide sellers a platform to
- list their products and generate sales. They charge
- some commission as a percentage on every sale,
- which is the source of income for the marketplace.</p> 
-
-<p>Actually, this is a win-win situation for all the concerned parties.</p> 
-
-<p><strong>Marketplace owner –</strong> they don’t have to bother about the inventory management and shipping.</p>
-
-<p><strong>Vendors –</strong> they don’t need a huge capital to start 
-a business from the scratch. They just have to list their products.
- Further, they get an opportunity to just focus on the
- product development and quality management.</p> 
-
-<p><strong>Customers –</strong> they get a lot of options for the same products and grab the best deal </p>
-
-<h3>What is the importance of marketing of marketplace?</h3> 
-
-<p>A marketplace without buyers is nothing.
- As an entrepreneur with a limited budget, 
- you can register and update your business
- at the marketplace, but you cannot 
- generate profit without buyers.</p> 
-
-<p>So from where do you get the buyers? In the highly
- competitive online market, you cannot expect buyers 
- to type the name of your business and find the source
- to buy it until you are a really popular and reputed brand.
- The online market is highly competitive and
- buyers get hundreds of options when looking for a specific product.</p> 
-
-<p>Moreover, customers search for the products and services
- on sites and in-app. So you need to boost your advertising
- process to reach where your customers are. This is possible
- only with effective, resulted oriented and targeted
- advertising campaigns.</p> 
-
-<h3>Hire digital marketing experts for better results</h3>
-
-<p>To get found by the buyers in top search results,
- you need to invest in digital marketing. The tricky
- world of the online market might make it difficult
- for you to focus on different dimensions. 
- It is better that you lay all the emphasis
- on your products, services, and other
- business verticals and let the authorized
- partners take responsibility for your brand’s promotion.</p>
-
-<p>The marketplace promotion experts know the right techniques,
- requirements and strategies for promotion of varied products.</p> 
-
-<h3>How can Round Ark help you achieve your goal?</h3> 
-
-<p>Round Ark is a team of connoisseurs having knowledge
- of different marketplaces all across the world.
- They know about the competition, right strategies
- and required technologies to promote your
- business for better search results and leads.</p> 
-
-<p>Marketplace gives you a platform to list your products
- and start the business in limited budget while the
- marketing experts at Round Ark help you get right
- buyers for your products by reinforcing your visibility.</p>
-
-<p>In short at Round Ark you get:</p>
-
-<p> • Trusted ad placement</p>
-
-<p> • Optimized bids</p>
-
-<p> • Expert support</p>
-
-<p> • The right pricing</p>
-
-<p>What are you waiting for? Boost visibility of your
- products in different search engines with
- attention grabbing, effective and result oriented ad campaigns.</p> 
-
-<p>Give us a call today to get free quotes.</p> 
-	
-	
 	
         </div>
 
@@ -2214,29 +2113,29 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-1">What Is Digital Marketing?</a>
+        <a class="accordion-section-title" href="#accordion-1">What Is an e-Marketplace?</a>
 
          
 
         <div id="accordion-1" class="accordion-section-content">
 
-            <p>For an amateur, digital marketing encompasses all the forms of electronic media being utilized for the promotion of your products and brand name. Digital marketing varies from traditional marketing as the former includes the use of digital channels and strategies, empowering the organization to evaluate the on-going marketing campaigns. Focusing on the real time, the organizations can analyze what strategies are working for them and what isn't. </p>
+           <p>An online marketplace is an ecommerce website that
+ connects the buyers and the sellers through the internet.
+ This is a blessing for the small businesses with limited budget.
+ By registering the business on these e-commerce websites,
+ one does not need to invest in personal websites and marketing
+ campaigns. Amazon, Alibaba, Etsy, eBay, OpenTable, and
+ AirBnB are some of the leading marketplaces in varied
+ industries having a global presence.</p> 
 
-
-
-<p>In the pursuit of digital marketing, various promotional techniques and methods are employed to reach out a larger audience and customer base via the featuring digital technologies. Utilizing the internet as the core promotional medium, digital marketing epitomizes the selection of services, products and marketing techniques. The various techniques involve search engine optimization, search engine marketing and link building. </p>
-
-
-
-<p>The aspiration of digital marketing is to enhance customer engagement and furnishing mediums via which the customers can effectively interact with the brand name. These mediums incorporate branding services and delivery of digital media. Telephone calls, ad space, and billboards are completely erased from the market. Even magazines and newspapers are on the verge of dying out. The consumers prefer mediums which are convenient and accord them with instant outcomes. Therefore, their interest is shifted from conventional marketing forms to the state-of-art technologies. The consumers rely more on online measures and search engines for their daily requirements and seeking information on various aspects.</p>
-
-
-
-<p>Digital marketing elaborates all about the strategies to reach out the appropriate audience employing the use of smart digitized channels and mediums. </p>
-
-
-
-
+<p>The e-marketplaces allow companies to list their products,
+ obtain new buyers, develop a streamlined trading network 
+ and make transactions. The sellers have to focus on sourcing,
+ inventory listing, order management and customer support.
+ While the technology, infrastructure, payment processing
+ and risk management are the responsibilities of the 
+ marketplace platform, getting leads and generating
+ sales is the responsibility of the seller.</p> 
 
         </div><!--end .accordion-section-content-->
 
@@ -2246,47 +2145,27 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-2">Digital Marketing v/s Physical Marketing</a>
+        <a class="accordion-section-title" href="#accordion-2">How does it work?</a>
 
          
 
         <div id="accordion-2" class="accordion-section-content">
 
-            <p><p>Before, we ponder over the question which is better digital marketing or physical marketing? Let us have a glance at what exactly term marketing implies? Marketing incorporates methods to understand the prospect's need and based on that design products and services that will cater to the target audience. It also includes promotional activities, market research, and advertisement. </p>
+            <p>The marketplace owners provide sellers a platform to
+ list their products and generate sales. They charge
+ some commission as a percentage on every sale,
+ which is the source of income for the marketplace.</p> 
 
+<p>Actually, this is a win-win situation for all the concerned parties.</p> 
 
+<p><strong>Marketplace owner –</strong> they don’t have to bother about the inventory management and shipping.</p>
 
-<p>Previously, physical marketing was largely used to reach the customer base, but with the advent and evolution of information technology, the market is realizing the value of digitization and its related techniques. As mentioned above, digital marketing involves usage of social networks and search engines for the brand awareness. However, the traditional marketing means examining the products physically so as to get the real time experience.</p> 
+<p><strong>Vendors –</strong> they don’t need a huge capital to start 
+a business from the scratch. They just have to list their products.
+ Further, they get an opportunity to just focus on the
+ product development and quality management.</p> 
 
-
-
-<p>There is no question to raise that digitization has completely taken over the traditional marketing methods owing to the following reasons:</p>
-
-
-
-<ul>
-
-
-
-<li>Digital marketing methods assist the business to develop a larger customer base, as it does not imply any interaction or physical appearance. </li>
-
-
-
-<li>It gives the customer an opportunity to collaborate directly with the business. </li>
-
-
-
-<li>It is not restricted to a particular place and conventional means, as a customer can interact at any place and time.</li>
-
-
-
-</ul>
-
-
-
-</p>
-
-
+<p><strong>Customers –</strong> they get a lot of options for the same products and grab the best deal </p>
 
         </div><!--end .accordion-section-content-->
 
@@ -2296,64 +2175,30 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-3">Why is Digital Marketing required for Businesses?</a>
+        <a class="accordion-section-title" href="#accordion-3">What is the importance of marketing of marketplace?</a>
 
          
 
         <div id="accordion-3" class="accordion-section-content">
 
-         <p>We have already gained an insight about what digital marketing is all about and how it has completely covered traditional marketing from the market. The second question that we need to ponder on why digital marketing is required from the business perspective? Throwing light on some of the major highlights:</p>
+         <p>A marketplace without buyers is nothing.
+ As an entrepreneur with a limited budget, 
+ you can register and update your business
+ at the marketplace, but you cannot 
+ generate profit without buyers.</p> 
 
+<p>So from where do you get the buyers? In the highly
+ competitive online market, you cannot expect buyers 
+ to type the name of your business and find the source
+ to buy it until you are a really popular and reputed brand.
+ The online market is highly competitive and
+ buyers get hundreds of options when looking for a specific product.</p> 
 
-
-<ul>
-
-
-
-<li>Digital marketing enables to manage customer relationships across all the mentioned channels. It is the primary thing for a brand to understand their customers, in order to communicate with them effectively. This is the need of the hour. Deeper the brand can probe into the customer behavior and choices, the more customer engagement they develop.</li>
-
-
-
- 
-
-
-
-<li>Another advantage is that digitization develops quantifiable results which imply a measurable reaction of the traffic on the website.</li>
-
-
-
-
-
-
-
-<li>Rather than calculating how many customers or prospective customers are online, it is better to turn the table around and ask who is not online these days. Nowadays people find digital technology as an integral part of their day to day existence.</li>
-
-
-
-
-
-
-
-<li>A well framed social media campaign can deliver the same message to a large customer base than by spending less and consuming no time. Social media and search engines can access from any corner of the world.</li> 
-
-
-
-
-
-
-
-<li>Digital marketing tactics make result tracking an easy process. Employing a huge range of analytics and data, the brands can evaluate their marketing campaigns.</li>
-
-
-
- <li>They can analyze the campaign performance, measuring the accomplishment in real time, according to you with an opportunity to plan effectively and instantly make the alterations.</li>
-
- 
-
- </ul>
-
-
-
+<p>Moreover, customers search for the products and services
+ on sites and in-app. So you need to boost your advertising
+ process to reach where your customers are. This is possible
+ only with effective, resulted oriented and targeted
+ advertising campaigns.</p> 
 
 
 
@@ -2366,21 +2211,64 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-4">How is Digital Marketing Altering the Marketing World?</a>
+        <a class="accordion-section-title" href="#accordion-4">Hire digital marketing experts for better results</a>
 
          
 
         <div id="accordion-4" class="accordion-section-content">
 
-        <p>Digital Marketing is evolving every day and is a nonstop change in the marketing world. It has changed the pursuit of many companies, extending the business verticals in many directions. Earlier in 2015, apart from focusing on search engine optimization, brands also shifted their concern towards creating effective content.</p> 
+        <p>To get found by the buyers in top search results,
+ you need to invest in digital marketing. The tricky
+ world of the online market might make it difficult
+ for you to focus on different dimensions. 
+ It is better that you lay all the emphasis
+ on your products, services, and other
+ business verticals and let the authorized
+ partners take responsibility for your brand’s promotion.</p>
+
+<p>The marketplace promotion experts know the right techniques,
+ requirements and strategies for promotion of varied products.</p> 
 
 
 
-<p>The data reflects that content marketing has generated 3 times more lead than the conventional marketing strategies. Marketers have reduced the advertising budgets to get more profit from the digital marketing tactics. Relationship marketing has grown wide with digitization with an increase in the customer base.</p>
 
+        </div><!--end .accordion-section-content-->
 
+    </div>
+    <div class="accordion-section">
 
+        <a class="accordion-section-title" href="#accordion-5">How can Round Ark help you achieve your goal? </a>
 
+         
+
+        <div id="accordion-5" class="accordion-section-content">
+
+        <p>Round Ark is a team of connoisseurs having knowledge
+ of different marketplaces all across the world.
+ They know about the competition, right strategies
+ and required technologies to promote your
+ business for better search results and leads.</p> 
+
+<p>Marketplace gives you a platform to list your products
+ and start the business in limited budget while the
+ marketing experts at Round Ark help you get right
+ buyers for your products by reinforcing your visibility.</p>
+
+<p>In short at Round Ark you get:</p>
+
+<p> • Trusted ad placement</p>
+
+<p> • Optimized bids</p>
+
+<p> • Expert support</p>
+
+<p> • The right pricing</p>
+
+<p>What are you waiting for? Boost visibility of your
+ products in different search engines with
+ attention grabbing, effective and result oriented ad campaigns.</p> 
+
+<p>Give us a call today to get free quotes.</p> 
 
         </div><!--end .accordion-section-content-->
 
@@ -2478,6 +2366,7 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
+
 <p>At RoundArk, we endeavor to deliver the best services and ensure that the brand gains the maximum benefits. Our professional team focuses on the brand recognition, thus making your product accessible to the customers, be it existing or the potent customers. Upgrade inbound traffic and increased ranking in search engines is what we prioritize.</p> 
 
 
@@ -2487,6 +2376,8 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 </p>
+
+	
 
 
 

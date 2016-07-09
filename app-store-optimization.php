@@ -92,37 +92,37 @@ jQuery(document).ready(function(){
 
 jQuery('#request-proposal-open').click(function(){
 
-	jQuery('.blk-overlay').show();
+  jQuery('.blk-overlay').show();
 
-	jQuery('#request-proposal').show();
+  jQuery('#request-proposal').show();
 
-		
+    
 
-	});
+  });
 
-	jQuery('.close-bttn-request span').click(function(){
+  jQuery('.close-bttn-request span').click(function(){
 
-	jQuery('.blk-overlay').hide();
+  jQuery('.blk-overlay').hide();
 
-	jQuery('#request-proposal').hide();
+  jQuery('#request-proposal').hide();
 
-	
+  
 
-	
+  
 
-	});
+  });
 
-	
+  
 
-	jQuery('#request-proposal .field.select-box input').click(function(){
+  jQuery('#request-proposal .field.select-box input').click(function(){
 
-	jQuery('#request-proposal .field.select-box .option').toggle();
+  jQuery('#request-proposal .field.select-box .option').toggle();
 
-	
+  
 
-		});
+    });
 
-		});
+    });
 
 
 
@@ -276,7 +276,7 @@ jQuery('#request-proposal-open').click(function(){
 
     <ul class="tab-links boxes">
 
-        <li class="active"><a href="#tab1">Search Engine Optimization</a></li>
+        <li ><a href="#tab1">Search Engine Optimization</a></li>
 
         <li><a href="#tab2">Social Media Marketing</a></li>
 
@@ -292,7 +292,7 @@ jQuery('#request-proposal-open').click(function(){
 
         <li><a href="#tab8">Online Reputation Management</a></li>
 
-        <li><a href="#tab9">App Store Optimization</a></li>
+        <li class="active"><a href="#tab9">App Store Optimization</a></li>
 
         <li><a href="#tab10">Market Place</a></li>
 
@@ -306,12 +306,9 @@ jQuery('#request-proposal-open').click(function(){
 
         <div id="tab1" class="tab active">
 
-    <!--<p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>-->
-	
-<p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>
+            <p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p>
 
-
-    </div>
+        </div>
 
 
 
@@ -370,14 +367,13 @@ jQuery('#request-proposal-open').click(function(){
         </div>
 
 
-
-        
-
         <div id="tab9" class="tab">
 
-            <p>App Store Optimization is done to optimize your mobile apps in order to achieve higher ranks in app's store search results. The app visibility increases the number of potential customers.</p>
+    <p>App Store Optimization is done to optimize your mobile apps in order to achieve higher ranks in app's store search results. The app visibility increases the number of potential customers.</p>
+	
+	
 
-        </div>
+      </div>
 
 
 
@@ -395,7 +391,7 @@ jQuery('#request-proposal-open').click(function(){
 
         </div>
 
-		
+    
 
     </div>
 
@@ -437,7 +433,7 @@ jQuery('#request-proposal-open').click(function(){
 
     </ul>
 
-	
+  
 
 <div class="tab-content" style="display:none;">
 
@@ -694,35 +690,228 @@ jQuery('#request-proposal-open').click(function(){
 <img src="images/new/long.png" width="37" height="37" alt="SEO"> <a href="#">Long Tail SEO Keyword Research</a>
 
 
+
+
+
+
+
 <p>Long tail keywords are easier to rank for because there is less competition. They convert better. And, they help sites eventually rank for the more competitive keywords.</p>
 
+
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
 
 <li>
+
+
+
 <img src="images/new/seo.png" width="37" height="37" alt="SEO"> <a href="#">SEO Audit & Website Review</a>
+
+
+
+
+
+
+
 <p>Aggregate the top SEO audit tools into one, easy to read report.</p>
 
+
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
+
 <li>
 
 <img src="images/new/wordpress.png" width="37" height="37"> <a href="#">WordPress Website Development</a>
+
+
+
+
+
+
+
 <p>Our WordPress website development services can have you a responsive, SEO friendly and secure website in less than a week.</p>
 
 
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </ul>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div class="block computer-img">
 
+
+
+
+
+
+
   <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
 
   <a href="#">request for company profile</a>
 
+
+
+
+
+
+
   </div>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 </div>
 
@@ -1210,6 +1399,18 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <div class="top content_Block content_Block2 verticals">
 
 
@@ -1448,13 +1649,52 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 </li>
 
+
+
+
+
+
+
 <li>
+
+
+
+
+
+
+
 <h5>Content Marketing:</h5>
+
+
+
+
+
+
+
 <p> Content marketing is the major part of the digital marketing, as it gives out a clear message along with attractive images to capture the audience attention.</p>
 
 
+
+
+
+
+
 </li>
+
+
+
+
+
+
+
 <li>
+
+
+
+
+
+
+
 <h5>Affiliate Marketing:</h5>
 
 
@@ -1867,26 +2107,33 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-1">What is Search Engine Optimization?</a>
+        <a class="accordion-section-title" href="#accordion-1">What is App Store Optimization?</a>
 
          
 
         <div id="accordion-1" class="accordion-section-content">
 
-          <p>Search engine optimization encompasses all the processes
- that intent to optimize a website for better search engine rankings.
- Enticing relevant visitors to a website, SEO is the best measure
- that works well to establish site’s credibility and enhance brand 
- awareness among people. With the incorporation of search engine 
- friendly elements, the process followed upscale the website’s 
- visibility on organic search engine result pages (SERP).</p> 
- 
-<p>SEO is defined as, “a methodology of strategies, techniques,
- and tactics to increase the visitors number to a website by
- obtaining high-ranking placement in the search results.”
- One should not think that SEO is all about designing search
- engine friendly websites, but it is about making the site
- better for the people and to fetch their attraction.</p> 
+           <p>The technological advancements have resulted in millions of mobile apps today.
+ Hence, the app publishers find it difficult to get the app identified as you
+ would want your prospective customers to find you easily.
+ In order to market your product in the right direction, certain
+ measures need to be taken. One of the most effective techniques 
+ which serve large benefits is App Store Optimization.</p> 
+
+<p>App Store Optimization ensures optimization of the mobile apps to maintain
+ their ranking in the search results of the app store. Meeting the app store 
+ ranking criteria is essential to keep your app at the top of the search results
+ which establishes better visibility among the potent customers. Enhanced
+ visibility generates more traffic to your app page, ultimately leading to 
+ a specific action: app download. This is the main goal of app store optimization.</p> 
+
+<p>Before, embarking on the process, it is imperative to understand your
+ target customers which incorporate the keywords being used by them for
+ searching a particular app. Through this, you analyzing the customer’s
+ language become easier to design an effective marketing plan to enhance
+ the business dimensions. ASO is a fundamental procurement strategy evolving
+ at a faster rate that has now moved to advanced plans like retention and app indexing.</p> 
+
 
         </div><!--end .accordion-section-content-->
 
@@ -1896,36 +2143,43 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-2">Why Does Your Website Need SEO?</a>
+        <a class="accordion-section-title" href="#accordion-2">App Indexing</a>
 
          
 
         <div id="accordion-2" class="accordion-section-content">
 
-           <p>Today, the dominant commercial search engines Google,
- Bing, and Yahoo maintain the major web traffic.
- Search engines are the basic method of navigation
- for maximum internet users, even though the market 
- is flooded with the advent of many social media and
- other relevant traffic. No matter what your website
- offers, search engine focus on providing targeted 
- traffic on your web page. However, if the search 
- engines miss your site or your content is not visible
- in the databases; your business may miss out certain
- incredible opportunities for improved results.</p> 
+            <p>A large number of users rely on mobile searching and look for 
+content even in the app downloaded by them apart from websites.
+ Therefore, Google has turned its focus on content app indexing
+ which has resulted into better visibility in the search engines
+ and app engagement. App Indexing allows Google to index the 
+ application in the same as the websites are being indexed.
+ You can observe the links of Android apps in the Google
+ search result that leading to the appropriate content within the app.
+ For instance, if you are carrying Google search on a particular subject
+ on your mobile, Google will reflect the concerned app result for the relevant content.</p> 
 
- <p>SEO generates important leads that result in higher
- conversion rates for the outbound leads. Blogging increases
- the website traffic if the content is correctly optimized 
- for the search results and the SEO techniques ensure visibility
- of the blog posts and shifts the traffic towards your web page.</p> 
+<p>Until 2013, indexing was limited to desktop and mobile app,
+ but the recent developments have resulted into app indexing as
+ a part of search results. Google perform app indexing is done
+ with the help of certain tools such as sitemap file or Google 
+ webmaster tools. If the user has the app installed on his device,
+ he could see the content enclosed within the app. Thus,
+ it gives the users an opportunity to view the content
+ within the app along with the mobile webpage.</p>
 
-<p>A new world of SEO techniques has opened up like local search
- optimization, as more of the traffic is shifted to the mobile devices,
- overcoming the traffic delivered to the traditional desktop devices.
- SEO is a never ending process as more of the competitors have plunged
- into it. Since SEO tracks and ranks the efficacy
- of your website, it makes you stand out in the market.</p>
+<p>If the content on the website and the app is similar,
+ the app results show up as deep links in the search results.
+ Tapping on these deep links on devices in which the app is
+ installed will take the user directly to the main content.
+ A lot of data is stored within the app that remains undiscovered.
+ App indexing results into better user experience which is 
+ developing into an effective tool for communication.
+ App indexing allows refined searches with accurate data 
+ leading to enhanced visibility of the apps in the search engines.</p> 
+
+
 
         </div><!--end .accordion-section-content-->
 
@@ -1935,45 +2189,26 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-3">Impressive SEO Campaigns</a>
+        <a class="accordion-section-title" href="#accordion-3">Real Time Mobile Analytics</a>
 
          
 
         <div id="accordion-3" class="accordion-section-content">
 
-        <p>The impressive SEO campaign involves a process of six steps to gain the maximum results. The basic steps include</p>
+         <p>Nowadays, customers are well informed about the developments
+ and need enhanced understanding about the technology.
+ According to the predictions made by the experts, in 
+ 2016 the real-time analytics tools will experience an
+ evolution in terms of easy integration and explained reporting.
+ Therefore, a number of companies is adopting this new 
+ technology to raise the bar of customer satisfaction.</p>
 
-<p> • <strong> Keyword Research:</strong> Keyword optimization is the fundamental step of the SEO process.
- The keyword searched should be an amalgamation of high usage by the researchers
- and that get low competition in the search engines. A considerable
- time is devoted to finding out the most relevant keywords to
- set the campaign in the correct direction.</p>
-
-<p> • <strong> Competitive Research:</strong> After a thorough keyword research,
- the next step is to analyze the position of the target site in the search
- engines. For this, we make use of SEO matrices, indexing content,
- inbound links and domain age and many others. The research
- enables you to specify the position of your client’s website
- with its potent competitors and also identifying areas
- needing work on a priority basis.</p> 
-
-<p> • <strong> Content Building:</strong> Content should be the priority
- for search engine optimization. For enhancing the position in the
- search results, that content quality should be high and related
- to the respective business domain. If the site has the most
- relevant content, it will compel the user to stay and to 
- revert for the content.</p> 
-
-<p> • <strong> Page Optimization:</strong> Once the keyword research and content
- building is over, the next priority is given to on page optimization.
- This includes page titles, text-based navigation, site mapping,
- Meta descriptions and cleaning up the code.</p>
-
-<p> • <strong> Follow Up:</strong> The reporting conducted at
- the beginning of the SEO campaign should be done at regular
- intervals including post optimization, ranking, website
- traffic levels and other relevant matrices to give 
- commendable results in SEO campaigns.</p>
+<p>The evolution made in the real-time mobile analytics will make
+ it easier to analyze which ASO techniques are working well and 
+ which ones are not. Keyword optimization can be done in a better 
+ way by the developers as to what customers are actually searching.
+ The marketers will be seen spending more time on keyword research 
+ and understanding competitor’s strategies to use app analytical platforms available.</p> 
 
 
 
@@ -1985,88 +2220,78 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-4">What is On Page Optimization?</a>
+        <a class="accordion-section-title" href="#accordion-4">Keyword Optimization</a>
 
          
 
         <div id="accordion-4" class="accordion-section-content">
 
-        <p>Digital Marketing is evolving every day and is a nonstop change in the marketing world. It has changed the pursuit of many companies, extending the business verticals in many directions. Earlier in 2015, apart from focusing on search engine optimization, brands also shifted their concern towards creating effective content.</p> 
-<p>On Page Search Engine Optimization refers to all
- the measures that affect the listing of your website 
- in the natural search results. Techniques like pages
- titles, Meta tags, and descriptions that influences 
- search engine ranking. The various techniques for 
- an effective On-Page search engine optimization are mentioned below:</p>
-
-<p><strong>Page Title Optimization:</strong> Being an essential SEO factor,
- each page of your website should have its unique title including 
- the relevant keywords. The title tag includes the business name,
- keywords, as it is the primary thing that is reflected by the search engines.</p> 
-
-<p><strong>Meta Description Optimization:</strong> Meta descriptions accord the relevant
- space to incorporate keywords for your content, as these descriptions
- are used in the search results when your page is listed.</p> 
-
-<p><strong>URL Structure:</strong> Improved crawling is achieved by
- including search engine friendly URLs. URLs crisp in 
- length and targeted keywords perform better in the search results.</p> 
-
-<p><strong>Keyword Density:</strong> Keep the keyword density around 3-5%,
- as your usage of a keyword may result in your site brings banned
- from the search engines. Appropriate application of keyword is important.</p>
-
-<p><strong>HTML Tags:</strong> Dividing the content into smaller and 
-relevant sections make it accessible for the users to read and analyze.
- The sections can be divided into heading like H1, H2, H3 etc tags.
- Keyword rich headlines are more competent than the usual headlines.</p>  
-
-<p><strong>Internal Linking:</strong> Internals can be used as the best 
-tools in search engine optimization and upgrade the site’s 
-visibility. Internal linking can be done by two potent 
-methods such as content linking and permanent navigation links.</p>
+       <p>Keyword optimization is similar to SEO. With the use of specific tools,
+ you can design page content incorporating all the relevant terms,
+ increasing the number of potent users for the app.
+ Generally, the organic traffic generated is the outcome 
+ of the simple app store research. Keyword optimization is 
+ essential to shift the high-quality traffic to your website.</p> 
 
 
-        </div>
-    </div><!--end .accordion-section-content-->
-        <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-5">What is Link Building?</a>
+        </div><!--end .accordion-section-content-->
+
+    </div>
+     <div class="accordion-section">
+
+        <a class="accordion-section-title" href="#accordion-5">How ASO Helps Your Brand?</a>
 
          
 
-        <div id="accordion-5" class="accordion-section-content">
+        <div id="accordion-4" class="accordion-section-content">
 
-        <p>One of the considerable factors of SEO is link
- building which implies the medium of getting 
- links to your website. Discovering new web pages
- and page ranking in their results are the two
- fundamental ways by which search engines utilizes links
- . Being a critical aspect, link building requires
- creativity and a good budget. To acquire the best
- results, link building strategies should include
- guest postings, developing info graphics, 
- designing viral content, evaluating competitor
- links, constructing links over the email,
- directory submission, social bookmarking
- website, writing pillar and epic content.</p>
+      <p>With the plethora of apps available in the multiple app stores,
+ brands have an opportunity to make a choice as per their requirement.
+ App Store Optimizations escalates the app store visibility,
+ enhancing the user engagement with number of downloads.
+ Generating better data leads to enlarging a number of
+ users who initially were not a part of your target audience.
+ The conversion data can suffer a decline either because of
+ poor app store listing or improper description.
+ Including app title, effective descriptions and 
+ innovative call to action enhance the data
+ quality for app store optimization.</p>
 
-<p>Back links refer to the links that visit from the other
- websites to yours. They are so called owing to pointing
- back your relevant page. Back links enhance the site’s
- search engine optimization. Link building serves many benefits like:</p>
-
-<p> • Link building upgrades the blog’s visibility in the search outcome.</p> 
-
-<p> • Better quality content ensures better quality incoming links. This results in more traffic on the webpage.</p> 
-
-<p> • Indexing becomes easier in the search results with the facility of link building.</p>
-
-<p> • The traffic of the other websites is also directed towards your web page.</p>
+<p>The marketers and developers should design effective
+ marketing campaigns in order to reduce the cost of paid
+ campaigns. The referral campaigns can be made successful
+ by the addition of push notifications to follow the 
+ campaigns along with inviting friends to build customer’s
+ network. Even if the app is not online, the addition of 
+ newsletter and emails can still create a contact with the customers.</p>
 
 
 
-        </div>
+
+        </div><!--end .accordion-section-content-->
+
+    </div> <div class="accordion-section">
+
+        <a class="accordion-section-title" href="#accordion-6">Why choose us?</a>
+
+         
+
+        <div id="accordion-4" class="accordion-section-content">
+
+       <p>App store optimization is the best way to enhance 
+the app’s search ranking. At RoundArk, we provide a 
+full range of ASO services like analysis, on page
+ and off page ASO. Our professional team backed 
+ with the advanced technology will render your 
+ app to attain the best rank within the marketplace.
+ We help you achieve the top slot by excellent 
+ keyword research, analyze market rank and suggest
+ the required alternations. Real Mobile data services 
+ upgrade ASO and number of quality users.</p>
+
+
+        </div><!--end .accordion-section-content-->
 
     </div>
 

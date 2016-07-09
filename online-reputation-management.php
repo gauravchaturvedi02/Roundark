@@ -2269,28 +2269,15 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-1">What Is Digital Marketing?</a>
+        <a class="accordion-section-title" href="#accordion-1">What is Online Reputation Management?</a>
 
          
 
         <div id="accordion-1" class="accordion-section-content">
 
-            <p>For an amateur, digital marketing encompasses all the forms of electronic media being utilized for the promotion of your products and brand name. Digital marketing varies from traditional marketing as the former includes the use of digital channels and strategies, empowering the organization to evaluate the on-going marketing campaigns. Focusing on the real time, the organizations can analyze what strategies are working for them and what isn't. </p>
-
-
-
-<p>In the pursuit of digital marketing, various promotional techniques and methods are employed to reach out a larger audience and customer base via the featuring digital technologies. Utilizing the internet as the core promotional medium, digital marketing epitomizes the selection of services, products and marketing techniques. The various techniques involve search engine optimization, search engine marketing and link building. </p>
-
-
-
-<p>The aspiration of digital marketing is to enhance customer engagement and furnishing mediums via which the customers can effectively interact with the brand name. These mediums incorporate branding services and delivery of digital media. Telephone calls, ad space, and billboards are completely erased from the market. Even magazines and newspapers are on the verge of dying out. The consumers prefer mediums which are convenient and accord them with instant outcomes. Therefore, their interest is shifted from conventional marketing forms to the state-of-art technologies. The consumers rely more on online measures and search engines for their daily requirements and seeking information on various aspects.</p>
-
-
-
-<p>Digital marketing elaborates all about the strategies to reach out the appropriate audience employing the use of smart digitized channels and mediums. </p>
-
-
-
+            <p>  Users come across discrete products and services every day and comment by giving their negative and positive reviews. One consumer complaint or a poor review on the online portal scales on the search results with an astounding speed. Thus, it is of great value for the brands to maintain their online reputation and nurture ergonomic growth for your brand online. For this, an extensive consideration is made in respect to your business competitors and also subordinating the negative review with proven techniques. There comes into play, the online reputation management, excelling your brand name in the online market.</p> 
+            <p>Online Reputation Management incorporates the practices of designing and implementing strategies that have a positive impact on the public impression of an organization or other entities on the internet. Initiating a drive on public opinion about the brand, service or the products, ORM mitigates the aftermath of the negative reviews, design active marketing strategies and widen the horizon for online reputation. It utilizes positive material for counteraction to influence the Google’s search engine results pages and other strategies like social media, website projects or emails.</p>
+            <p>ORM is a process of restraining what reflects on Google when someone searches your brand name implying the positive content on top of the search results and suppressing the negative content down in the result to ensure heavy and positive traffic. A constant interaction on the social network websites is important for the growth of any business despite the business size and prospects.</p>
 
 
         </div><!--end .accordion-section-content-->
@@ -2301,21 +2288,21 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-2">Digital Marketing v/s Physical Marketing</a>
+        <a class="accordion-section-title" href="#accordion-2">Why is online Reputation Required for Your Brand?</a>
 
          
 
         <div id="accordion-2" class="accordion-section-content">
 
-            <p><p>Before, we ponder over the question which is better digital marketing or physical marketing? Let us have a glance at what exactly term marketing implies? Marketing incorporates methods to understand the prospect's need and based on that design products and services that will cater to the target audience. It also includes promotional activities, market research, and advertisement. </p>
+            <p>With the ever growing advancements made in the major search engines, the brand should prioritize their online presence and quickly counteract the negative rank and results. If there is no protection, the users can post a negative review on the blogs; videos file a complaint or promote your competitors hampering the online value of the business. The company must be aware of the digital performance of the respective service or the products. Upgrading the business sales, it helps you to overcome the negative feedback pertaining to your brand which allows you to regain the trust of the target audience.</p>
 
 
 
-<p>Previously, physical marketing was largely used to reach the customer base, but with the advent and evolution of information technology, the market is realizing the value of digitization and its related techniques. As mentioned above, digital marketing involves usage of social networks and search engines for the brand awareness. However, the traditional marketing means examining the products physically so as to get the real time experience.</p> 
+<p>A negative buzz in the market about your brand and a negative listing in the search engines like Google, Yahoo, and Bing can damage the brand’s reputation to a great extent hampering your capacity to maintain the current business and win new opportunities. It allows the business to boost the online visibility along with monitoring reviews in diversified verticals.</p> 
 
 
 
-<p>There is no question to raise that digitization has completely taken over the traditional marketing methods owing to the following reasons:</p>
+<p>However, positive reviews about your business all over the internet will look suspicious. Therefore, a few negative reviews are not a worry. In certain cases, the search engines get flooded with the allegations pertaining to bad services, business practices or illegal activities creating a negative impact on your business. This is when online reputation management comes into play to find the root cause of the internal problems. The business may become a victim of malignant attack owing to personal issues or competitive sabotage. The practice of reputation management replaces the bad content with new content that builds the brand name. Proactive engagement online will keep you aware of the customers reviews and their suggestions for the company’s products and services. Develop transparency and accountability for a favorable online impression of your brand across multiple channels.</p>
 
 
 
@@ -2351,61 +2338,32 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-3">Why is Digital Marketing required for Businesses?</a>
+        <a class="accordion-section-title" href="#accordion-3">Online Reputation Management Tools</a>
 
          
 
         <div id="accordion-3" class="accordion-section-content">
 
-         <p>We have already gained an insight about what digital marketing is all about and how it has completely covered traditional marketing from the market. The second question that we need to ponder on why digital marketing is required from the business perspective? Throwing light on some of the major highlights:</p>
+         <p>A several number of tools are available to help you monitor the online reputation of your business. The tools of your interest are mentioned below:</p>
+         <p>
+         <ul>
+             <li><strong>Google Alerts:</strong><p> Google alerts have been in use from a quite a long and companies still rely on these alerts. Users access your brand content through Google searches, therefore activating Google alerts will instantly direct you to any negative review posted pertaining to your business.</p></li>
+
+             <li><strong>Trackur:</strong><p> A social media monitoring tool, Trackur keep you notified if your brand is mentioned on social media platforms. Tracking and analyzing the trends, online reputation management evokes positive response about the business. </p></li>
+
+             <li><strong>Hyper Alerts:</strong><p> Maximum business maintain their presence with Facebook, Hyper Alerts is an online tool that keeps track of online activity with instant notifications keeping you updated.</p></li> 
+
+             <li><strong>Social Mention:</strong><p> Social mention monitors the online reputation of the brand and keeps a track of who is talking about your brand on various platforms. This helps the business to identify the negative reviews and tackle them effectively. </p></li>
+
+              <li><strong>Image Raider:</strong> <p>Images are more effective than simple content. Image Raider discovers any distortion related to the brand image or the case of stealing images. </p></li>
+
+              <li><strong>Rankur:</strong><p> Rankur allows you to efficiently manage the brand online reputation and track the social media presence enhancing marketing online marketing strategies. </p></li>
+
+
+         </p>
 
 
 
-<ul>
-
-
-
-<li>Digital marketing enables to manage customer relationships across all the mentioned channels. It is the primary thing for a brand to understand their customers, in order to communicate with them effectively. This is the need of the hour. Deeper the brand can probe into the customer behavior and choices, the more customer engagement they develop.</li>
-
-
-
- 
-
-
-
-<li>Another advantage is that digitization develops quantifiable results which imply a measurable reaction of the traffic on the website.</li>
-
-
-
-
-
-
-
-<li>Rather than calculating how many customers or prospective customers are online, it is better to turn the table around and ask who is not online these days. Nowadays people find digital technology as an integral part of their day to day existence.</li>
-
-
-
-
-
-
-
-<li>A well framed social media campaign can deliver the same message to a large customer base than by spending less and consuming no time. Social media and search engines can access from any corner of the world.</li> 
-
-
-
-
-
-
-
-<li>Digital marketing tactics make result tracking an easy process. Employing a huge range of analytics and data, the brands can evaluate their marketing campaigns.</li>
-
-
-
- <li>They can analyze the campaign performance, measuring the accomplishment in real time, according to you with an opportunity to plan effectively and instantly make the alterations.</li>
-
- 
-
- </ul>
 
 
 
@@ -2421,18 +2379,29 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
     <div class="accordion-section">
 
-        <a class="accordion-section-title" href="#accordion-4">How is Digital Marketing Altering the Marketing World?</a>
+        <a class="accordion-section-title" href="#accordion-4">Proactive ORM</a>
 
          
 
         <div id="accordion-4" class="accordion-section-content">
 
-        <p>Digital Marketing is evolving every day and is a nonstop change in the marketing world. It has changed the pursuit of many companies, extending the business verticals in many directions. Earlier in 2015, apart from focusing on search engine optimization, brands also shifted their concern towards creating effective content.</p> 
+        <p> Proactive ORM is defined as an online ongoing process of auditing and evaluating relevant data of your business in the search results. Thus, it forbids any damage to the brand name. As a proactive strategy, online reputation involves certain steps to create brand awareness. Proactive online reputation management encompasses a lot of online marketing practices, content optimization, article development and citation claiming. Proactive Positive and user-friendly content on the website, social media platforms and instant reactions to the negative customer feedback counteract the negative reviews about your organization. The online reputation can either build or degrade the market value of any business. </p> 
 
 
 
-<p>The data reflects that content marketing has generated 3 times more lead than the conventional marketing strategies. Marketers have reduced the advertising budgets to get more profit from the digital marketing tactics. Relationship marketing has grown wide with digitization with an increase in the customer base.</p>
 
+        </div><!--end .accordion-section-content-->
+
+    </div>
+     <div class="accordion-section">
+
+        <a class="accordion-section-title" href="#accordion-5">Reactive ORM</a>
+
+         
+
+        <div id="accordion-5" class="accordion-section-content">
+
+        <p>Reactive online reputation management incorporates identification of the negative brand reviews and immediate response to build its reputation. However, companies tend to pay less attention to reactive ORM. It helps you to improve search traffic for your brand and eliminates the traffic to negative online reviews, allowing you to remove the irrelevant pages from the search results. However employing reactive online reputation strategy is difficult and companies prefer reactive strategies for building a brand image.  </p> 
 
 
 
@@ -2533,11 +2502,11 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
-<p>At RoundArk, we endeavor to deliver the best services and ensure that the brand gains the maximum benefits. Our professional team focuses on the brand recognition, thus making your product accessible to the customers, be it existing or the potent customers. Upgrade inbound traffic and increased ranking in search engines is what we prioritize.</p> 
+<p>RoundArk provides an array of services to safeguard and preserve the online reputation of your brand utilizing the best online techniques. Backed by a highly professional team with in-depth experience, we deliver instant support and customized solutions following a standard approach ensuring brand market value.</p> 
 
 
 
-<p>Designing digital media campaigns and embracing the latest technology, we give our clients a strong stride across the globe. 
+<p>Transforming the online reviews of your brand, RoundArk transforms your image by providing engaging content and enhancing online reputation.
 
 
 
