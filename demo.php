@@ -1,9 +1,4 @@
-<?php include 'header.php'; ?><body class="category_newlayout">
-
-
-
-
-
+﻿<?php include 'header.php'; ?><body class="category_newlayout">
 
 
 <!--popup Start-->
@@ -269,11 +264,6 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
 <!--popup End-->
 
 
@@ -489,17 +479,6 @@ jQuery('#request-proposal-open').click(function(){
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div class="top content_Block">
@@ -1051,34 +1030,7 @@ jQuery('#request-proposal-open').click(function(){
 
 <img src="images/new/content.png" width="37" height="37" alt="Content marketting"> <a href="#">Campaign Management</a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p>Our competent campaign management programs enhance product sales and awareness within the concerned market. We define an effective online strategy for higher returns.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 </li>
@@ -1117,171 +1069,28 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
 
 
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
 
 <img src="images/new/copyWriting.png" width="37" height="37" alt="Copyright"> <a href="#">Online Advertising</a>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 <p>The online advertising strategy let your brand connect to the community by creating innovative and engaging copies. We generate leads to target specific users.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<li>
-
-
-
-
-
-
-
+</li><li>
 <img src="images/new/long.png" width="37" height="37" alt="SEO"> <a href="#">Promotions and Contest</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p>We design unique contests and promotions to restore existing campaigns increasing sales and conversions. Design right promotion strategy for customer engagement.</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <li>
 
-
-
-
-
-
-
 <img src="images/new/seo.png" width="37" height="37" alt="SEO"> <a href="#">Digital Analytics</a>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -1302,24 +1111,6 @@ jQuery('#request-proposal-open').click(function(){
 
 
 </li>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <li>
 
@@ -1437,10 +1228,43 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-</li><li>
+</li>
+
+</ul>
+   
 
 
 
+
+
+
+
+
+</div>
+    
+    <div class="computer-img">
+ 
+  <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
+
+
+  <a href="#">request for company profile</a>
+
+  </div>
+   
+    
+
+
+       
+    
+    
+    
+    
+   <div class="icon-images-new">
+       <ul>
+<li>
+
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     <img src="images/addcamp.png" width="37" height="37"> <a href="#">Advertising Campaigns</a>
 
 
@@ -1561,660 +1385,71 @@ jQuery('#request-proposal-open').click(function(){
 
 </div>
 
-<div class="block computer-img">
- 
-  <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
-
-
-  <a href="#">request for company profile</a>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  </div>
-
 
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="top request-proposal" >
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="container">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="master">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="request-proposal2">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <span>Ready to grow your online presence?</span>
 
-
-
 <a id="request-proposal-open" href="javascript:void(0)">Request a Proposal</a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</div>
 
 
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <div class="top content_Block content_Block2">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="container">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="master">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div class="txt-content">
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="head">
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h2>Digital Marketing Process</h2>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <div class="block icon-images">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <ul>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <h5><img src="images/new/seo-strategy.png" width="" height="" alt="SEO Strategy">Discover</h5>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <p>The first thing we do is discover the business prerequisites, marketplace trends, competitors and business reputation. We research and analyze your brand, examine the relevant industry and understand the customer base. Our first stage is to uncover the key insights laying the foundation for the further process.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 </li>
 
 
-
-
-
-
-
 <li>
-
-
-
-
-
-
-
-
-
 
 
 
@@ -2336,9 +1571,6 @@ jQuery('#request-proposal-open').click(function(){
 
 
 </li>
-
-
-
 <li>
 
     <h5><img src="images/measure.png" width="37" height="37" alt="Monthly Management">Measure</h5>
@@ -2348,10 +1580,30 @@ jQuery('#request-proposal-open').click(function(){
 </li>
 
 
+</ul>
+    </div>
+    
+    
+    
+    
+<div class="computer-img">
+
+
+  <img  src="images/new/sidde-img.png" width="" height="" alt="Side Img"> 
+
+
+  </div>
+
+
+
+
+    <div class="icon-images-new">
+        <ul>
+
 
 <li>
 
-
+<br/><br/><br/><br/><br/><br/><br/>
     <h5><img src="images/optimize (2).png" width="37" height="37" alt="Monthly Management">Optimize</h5>
 
 
@@ -2363,15 +1615,6 @@ jQuery('#request-proposal-open').click(function(){
 </ul>
 
 </div>
-
-<div class="block computer-img">
-
-
-  <img  src="images/new/sidde-img.png" width="" height="" alt="Side Img"> 
-
-
-  </div>
-
 
 </div>
 
@@ -2571,36 +1814,6 @@ jQuery('#request-proposal-open').click(function(){
 </div>
 <div class="block computer-img">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   <img src="images/new/side-img2.png" width="" height="" alt="Side Img"> 
 
 
@@ -2711,45 +1924,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="top content_Block content_Block2 accordian_new-main">
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3193,10 +2368,6 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
 <div class="top content_Block content_Block2">
 
 
@@ -3390,17 +2561,6 @@ jQuery('#request-proposal-open').click(function(){
 
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3650,21 +2810,6 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <div class="top content_Block content_Block2">
 
 
@@ -3723,16 +2868,7 @@ jQuery('#request-proposal-open').click(function(){
 
 </div>
 
-
-
-
-
-
-
-
-
-
-
+</div>
 
 
 
@@ -3742,30 +2878,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 <div class="container">
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -3773,63 +2886,60 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
+   <ul id="flexiselDemo3">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<li>
 
 <div class="testimonial-block">
 
 
 
+<p>For Fashion labels, Digital Marketing is tricky.
+ Whether it is the cost of the product being on the higher end 
+ or the fast changing fashion trends, there are challenges abound.
+ YNG Media’s e-commerce solutions and subsequent SEO services have
+ enabled us to reach the correct audience and has ensured that 
+ the latest in-vogue products are accessible by our customers.
+ We are pleased with our long standing relationship with 
+ YNG Media and will definitely recommend their
+ Digital Marketing & Technology services.</p>
+
+
+
+<div class="bottm-blk">
+
+
+<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>
+
+
+<div class="txt">Sushil Tuteja<span>Satya Paul</span></div>
+
+
+
+</div>
+
+
+
+</div></li>
 
 
 
 
 
+<li>
+
+<div class="testimonial-block">
 
 
-
-
-
-
-
-<p>Markitors has grown our website from 0 visits to just over 25,000 monthly visits from organic search. Their SEO services are very effective in growing your brand online.</p>
-
-
-
-
-
-
-
-
-
-
-
-
+<p>We always wanted to take Maspar’s real world 
+reputation to the online domain but were a little 
+hesitant how it will shape up. YNG Media had long
+ discussions with us and allayed our doubts with
+ creative e-commerce solutions and Digital Marketing
+ ideas. The search engine optimization aspect of the
+ Project is also moving in the direction both parties 
+ agreed on and we are already seeing the positive
+ results of our association with YNG Media.</p>
 
 
 
@@ -3837,15 +2947,34 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
+<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>
+
+
+<div class="txt">Rajesh Mahajan <span>Maspar</span></div>
+
+
+</div>
+
+
+</div> </li>
 
 
 
+<li>
+
+<div class="testimonial-block">
 
 
 
+<p>From the corporate website to our e-commerce solutions,
+ YNG Media has always delivered to us the finest Digital
+ Marketing services we could ask for. A hassle free
+ relationship all along, today YNG Media is our
+ technology & marketing partner in the online
+ space. Keep up the good work!!..</p>
 
 
-
+<div class="bottm-blk">
 
 
 
@@ -3854,44 +2983,17 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
+<div class="txt">Maninder Singh <span>SSIPL</span></div>
+
+
+</div>
 
 
 
 
+</div></li>
 
-
-
-
-
-
-
-<div class="txt">Brian Mohr <span>Managing Partner, Y Scouts</span></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</ul>
 
 
 
@@ -3903,365 +3005,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="testimonial-block">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>Markitors has grown our website from 0 visits to just over 25,000 monthly visits from organic search. Their SEO services are very effective in growing your brand online.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="bottm-blk">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="txt">Brian Mohr <span>Managing Partner, Y Scouts</span></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="testimonial-block">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>Markitors has grown our website from 0 visits to just over 25,000 monthly visits from organic search. Their SEO services are very effective in growing your brand online.</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="bottm-blk">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="txt">Brian Mohr <span>Managing Partner, Y Scouts</span></div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -4325,3 +3069,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 <?php include 'footer.php'; ?>
+
+<link href="css/flexisel.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="js/jquery.flexisel.js"></script>
