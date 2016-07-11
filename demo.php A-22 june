@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?><body class="category_newlayout">
+﻿<?php include 'header.php'; ?><body class="category_newlayout">
 
 
 
@@ -803,55 +803,61 @@ jQuery('#request-proposal-open').click(function(){
 
 
     <ul class="tab-links">
-        
-        <li><a href="/search-engine-optimization.php">
-          
-          <h3>Search Engine Optimization</h3>
-          <br/>
+
+
+
+        <li><a href="/search-engine-optimization.php"><h3>Search Engine Optimization</h3>
+                <img src="images/seo.png"/>
         <p>Each engine optimization encompasses all the processes that intent to optimize a website for better search engine rankings.</p></a></li>
 
         <li><a href="/search-engine-marketing2.php"><h3>Search Engine Marketing</h3>
-               <br/>
+                <img src="images/sem.png"/>
         <p>PPC lets make your brand visible through sponsored links including benefits such as instant rankings, keyword targeting etc.</p></a></li>
 
 
 
         <li><a href="/social-media-marketing2.php"><h3>Social Media Marketing</h3>
-                <br/>
+                <img src="images/smm.png"/>
          <p>Social media is the latest trend as it allows your brand to connect to a large number of customers and thus strengthening its reputation.</p></a></li>
 
         <li><a href="/online-reputation-management.php"><h3>Online Reputation Management</h3>
-                <br/>
+                <img src="images/reputation.png"/>
         <p>The act of monitoring and mitigating search engine result pages is called online reputation management. It provides an overview of the internet search to the respective business. </p></a></li>
 
 
         <li><a href="/app-store-optimization.php"><h3>App Store Optimization</h3> 
-                <br/>
+                <img src="images/appstore.png"/>
          <p>App Store Optimization is done to optimize your mobile apps in order to achieve higher ranks in app's store search results. The app visibility increases the number of potential customers.</p></a></li>
+
+
+        
+        
+        
+       
+
+       
 
         
         <li><a href="/local.php"><h3>Local</h3>
-                <br/>
+                <img src="images/local.png"/>
         <p>Nowadays, it has become easier for the businesses to grow implying search engines that place them in their local search results. Local SEO allows your business to stand out distinct in the SERPs.</p></a></li>       
 
 
 
 
         <li><a href="/technology2.php"><h3>Technology</h3>
-                <br/>
+                <img src="images/techno.png"/>
         <p>The audience engagement is increased from the website appearance. Your brand image in the market reflects the services offered. So building brand image is important from every perspective.</p></a></li>
 
 
-         <li><a href="/content-marketing2.php">
-                
-                 <h3>Content Marketing</h3>
-                <br/>
+         <li><a href="/content-marketing2.php"><h3>Content Marketing</h3>
+                <img src="images/content.png"/>
         <p>Content marketing is the major part of the digital marketing, as it gives out a clear message along with attractive images to capture the audience attention.</p></a></li>
 
 
 
         <li><a href="/affiliate-marketing.php"><h3>Affiliate Marketing</h3>
-                <br/>
+                <img src="images/affliate.png"/>
         <p>Affiliate marketing analytics and strategy is an important pillar of digital marketing services</p></a></li>
 
      
@@ -860,21 +866,20 @@ jQuery('#request-proposal-open').click(function(){
 
 
         <li><a href="/market-place.php"><h3>Market Place</h3> 
-                <br/>
+                <img src="images/marketplace.png"/>
         <p>From a business perspective, it is important to understand the customers online. This improves results on online channels. An improved market place analysis brings you closer to customers and analyzes the competitors.</p></a></li>
 
    
         <li><a href="/email-newsletter.php"><h3>Email Newsletter</h3>
-                <br/>
+                <img src="images/emailn.png"/>
         <p>Thinking email newsletter is a thing of past, you may be probably wrong. Email Newsletter gives another place to connect with the website or related products, along with better deals. </p></a></li>
 
 
         
         <li><a href="#"><h3>Direct Marketing</h3>
-                <br/>
+                <img src="images/directmarketing.png"/>
         <p>Direct marketing is a strategy that gives you an opportunity to directly connect with your existing and potential customers through a personalized message. This is an effective tool for small businesses to maximize results from limited marketing resources. </p></a></li>
 
-        
     </ul>
 
 

@@ -3583,7 +3583,7 @@ textarea { float: right;border: 1px solid #ccc; width: 70%; padding: 4px 5px;}
 
 
 
-.banner-row{ background:url(../images/new/seo-banner.jpg) no-repeat top center/cover; height:350px; margin-bottom:10px;}
+.banner-row{ background:url(../images/new/seob.jpg) no-repeat top center/cover; height:350px; margin-bottom:10px;}
 
 .category_newlayout .banner1 {  margin: 0;  padding: 0;  position: relative;  top: 50%;  transform: translateY(-50%); float:left; width:100%;}
 
@@ -3667,11 +3667,11 @@ textarea { float: right;border: 1px solid #ccc; width: 70%; padding: 4px 5px;}
 
 
 
-.tabs-new {width:100%; float:left; padding-bottom:70px;}
+.tabs-new {width:100%; float:left; padding-bottom:70px; padding-left: 20px;}
 
 .tabs-new .tab-links:after {display:block; clear:both;  content:''; }
 
-.tabs-new .tab-links{ border-bottom:1px solid #ccc; border-top:1px solid #ccc;}
+.tabs-new .tab-links{ border-bottom:1px solid #ccc;}
 
 .tabs-new .tab-links li {margin:0 5px 5px 0; float:left; list-style:none; background:none;width:32%; height:60%;}
 
@@ -3681,9 +3681,12 @@ textarea { float: right;border: 1px solid #ccc; width: 70%; padding: 4px 5px;}
 
 .tabs-new .tab-links a {  background:#eee;  border-radius: 0;  color: #333;  display: block;   font-size: 12px;   font-weight: 600;    letter-spacing: 0;  padding: 20px 10px;  transition: all 0.15s linear 0s; border-top:1px solid transparent; border-bottom:1px solid transparent; height:140px;}
 
-/*.tabs-new .tab-links a::after {   border-right: 1px solid #ccc;   content: "";  height: 37px;  position: absolute; right: 0;  top: 15px;}
 
-.tabs-new .tab-links li:last-child a:after{ border-right:0;}*/
+
+
+
+
+
 
 
 
@@ -3699,7 +3702,7 @@ textarea { float: right;border: 1px solid #ccc; width: 70%; padding: 4px 5px;}
 
 .tabs-new .tab.active {display:block; color:black;}
 
-.tabs-new .tab-links li p {  font-size: 12px; line-height: 18px; color:white;}
+.tabs-new .tab-links li p {  font-size: 15px; line-height: 18px; color:white; opacity:0; }
 
 
 
@@ -3749,15 +3752,28 @@ textarea { float: right;border: 1px solid #ccc; width: 70%; padding: 4px 5px;}
 
 .category_newlayout .top.content_Block.content_Block2.verticals { display: none;}
 
-.tabs-new .tab-links a{background-color:black; opacity: 0.5;}
+.tabs-new .tab-links a{background:url(../images/seoimage.jpg); opacity:1;}
+.tabs-new .tab-links li:nth-child(2) a{background: url(../images/semimage.jpg);}
+.tabs-new .tab-links li:nth-child(3) a{background: url(../images/smmimage.jpg);}
+.tabs-new .tab-links li:nth-child(4) a{background: url(../images/ormimage.jpg);}
+.tabs-new .tab-links li:nth-child(5) a{background: url(../images/appimage.jpg);}
+.tabs-new .tab-links li:nth-child(6) a{background: url(../images/localimage.jpg);}
+.tabs-new .tab-links li:nth-child(7) a{background: url(../images/technologyimage.jpg);}
+.tabs-new .tab-links li:nth-child(8) a{background: url(../images/contentimage.jpg);}
+.tabs-new .tab-links li:nth-child(9) a{background: url(../images/affliateimage.jpg);}
+.tabs-new .tab-links li:nth-child(10) a{background: url(../images/marketplace.jpg);}
+.tabs-new .tab-links li:nth-child(11) a{background: url(../images/emailnimage.jpg);}
+.tabs-new .tab-links li:nth-child(12) a{background: url(../images/directmimage.jpg);}
+.tabs-new .tab-links li:nth-child(2) a{background: url(../images/semimage.jpg);}
 
-.tabs-new li.active a, .tabs-new li.active a:hover {background: black; border-top: 1px solid #e03a2b !important; color: #fff;
+.tabs-new li.active a, .tabs-new li.active a:hover {background: #3333ff; border-top: 1px solid #e03a2b !important; color: #fff;
 
  border-bottom: 1px solid #e03a2b !important;}
 
- 
 
-.tabs-new .tab-links a:hover {background: black;opacity:1.0; border-top: 1px solid #e03a2b !important; border-bottom: 1px solid #e03a2b !important;}
+.tabs-new .tab-links li:hover p{opacity:1;}
+
+.tabs-new .tab-links a:hover {background: url(../images/seoimage.jpg); opacity:1.0; border-top: 1px solid #e03a2b !important; border-bottom: 1px solid #e03a2b !important;}
 
 .top.case{margin-bottom: 80px; background: #8C8C8C;}
 
