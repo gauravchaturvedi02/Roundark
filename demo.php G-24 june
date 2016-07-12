@@ -1,4 +1,4 @@
-<?php include 'header.php'; ?><body class="category_newlayout">
+﻿<?php include 'header.php'; ?><body class="category_newlayout">
 
 
 <!--popup Start-->
@@ -308,7 +308,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
- <h1 data-scroll-reveal="enter bottom over 0.5s and move 50px after 0.01s">Digital Optimization Services</h1>
+ <h1 data-scroll-reveal="enter bottom over 0.5s and move 50px after 0.01s">Search Engine Optimization Services </h1>
 
 
 
@@ -318,7 +318,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
- <h4></h4> 
+ <h4>Generate more leads for your business through SEO.</h4> 
 
 
 
@@ -363,7 +363,7 @@ jQuery('#request-proposal-open').click(function(){
    <div class="field"><select>
 
 
-           <option>Select</option>
+
    <option>Search Engine Optimization</option>
 
 
@@ -2593,7 +2593,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<a href="cases.php">all case studies</a>
+<a href="#">all case studies</a>
 
 
 
@@ -2909,7 +2909,7 @@ jQuery('#request-proposal-open').click(function(){
 <div class="bottm-blk">
 
 
-<!--<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>-->
+<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>
 
 
 <div class="txt">Sushil Tuteja<span>Satya Paul</span></div>
@@ -2947,7 +2947,7 @@ hesitant how it will shape up. YNG Media had long
 
 
 
-   <!--<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>-->
+<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>
 
 
 <div class="txt">Rajesh Mahajan <span>Maspar</span></div>
@@ -2978,7 +2978,7 @@ hesitant how it will shape up. YNG Media had long
 
 
 
-<!--<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>-->
+<div class="img"><img src="images/new/testi1.jpg" width="" height="" alt="Testimonial"></div>
 
 
 
