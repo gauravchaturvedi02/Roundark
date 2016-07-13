@@ -1,5 +1,5 @@
 
-<title>Case Study</title>
+<title>Case Study:Paytm</title>
 <?php include 'header.php'; ?>
 
 <!--Case-Study page start -->
@@ -7,7 +7,8 @@
 <div class="container">
 <div class="master">
 <div class="case-study-title">
-<h2>Satyapaul Case Study</h2>
+<h2>Paytm Case Study</h2>
+
 <!--<h5>Huge optimizes Gucci.com and brings luxury to mobile.</h5>-->
 </div>
 <div class="banner-case-studyproduct">
@@ -32,10 +33,11 @@
 <div class="master">
 <div class="case-study-box">
 <div class="product-info">
-<p><strong>Background:</strong><br/>
-Established in 1985, Satya Paul today is an internationally acclaimed fashion brand. The brand got recognition for its unique design concepts and a vivid color palette. Satya Paul introduced the concept of choreographed collections in 1985 when there was very limited awareness about designer brands. With its exceptional work the brand has made a strong presence in more than 35 locations in India and at select high street boutiques abroad. Besides high-end stores, the brand also has an online presence for the avid online shoppers. 
+<p><strong>Background:</strong><br/>Paytm started its journey as a prepaid mobile recharge website in 2010 and in a short span of time it has transformed into one of the largest e-commerce marketplaces. The website today has collaboration with the leading brands and offers great deals on online shopping, mobile bill payments, movie tickets and utility bill payments. In the beginning, the company got first mover advantage due to its unique concept but  soon started following competition from other entrants in the market.
 </p>
-<p>The brand popularized the style of concept-based designs but faced troubles with the sales from their online store. The team was looking to strengthen their online presence with increased traffic, better ranks and more leads. To achieve this goal Satya Paul hired Round Ark as their search engine optimization partner. 
+<p>
+The competition raised the need of investing in search engine optimization. The group knew that SEO is important to grab the market  share from the competitors, but did not know how to do it. This led them to come to Round Ark. The highly skilled and knowledgeable SEO team was assigned the responsibility to help the brand achieve their objective of improved ranking and boost in the traffic. 	
+
 </p>
 </div>
 <div class="product-dedtails">
@@ -46,19 +48,27 @@ Established in 1985, Satya Paul today is an internationally acclaimed fashion br
     
    <div class="case-study-box">
 <div class="product-info-new">
-<p><strong>Challenge:</strong><br/>
-As Satya Paul is a highly reputed brand, they had good traffic to the website, but this was not on relevant keywords. Further, the traffic visiting the online store was not getting converted. We brainstormed with the Satya Paul team to understand the problem areas, prepared an audit report and came out with many loopholes affecting their online business.  
+<p><strong>Research:</strong><br/>
+The objective of investing in SEO was to increase traffic, get better rankings on selected keywords and mapping of keywords on each page. As research is essential for any campaign, we also started working on the project with keyword and website analysis. The team also spent time on understanding competitors, their strategies, and  the target market. 
+
+
+<br/>The first step in the process was to divide the keywords into the three categories: 
+
+<ul><li>
+    Mobile
+    </li>
+    <li>DTH</li>
+    <li>
+        Bus Tickets
+    </li>
+</ul>
 </p>
-<p><strong>
-The Endeavor
-</strong></p>
-<p>
-    
-Once we know the problems, the next step was to work on them to remove them and help the business get improved results. Our focus areas while working on their SEO project were: the content quality, website architecture and the quality of links. We rehashed the content as per visitor expectations and redeveloped the website structure to make it more user-friendly. 
-</p><p>
-Competitor's analysis helped us get some high-quality links. We kept their strategies in the mind while forming an action plan for our client. Besides creating a quality link, our focus was also on removing the toxic links. 
+<p>   
+We also focused on the website quality and analyzed it for the speed, performance, and architecture to optimize it to achieve the goal. 
 
 </p>
+    
+
 </div>
 <div class="product-dedtails-new">
     <img src="images/brand-home7.png" alt="fnp" />
@@ -69,14 +79,20 @@ Competitor's analysis helped us get some high-quality links. We kept their strat
     
     <div class="case-study-box">
 <div class="product-info">
-<p><strong>Creativity:</strong><br/>
-Satya Paul is a fashion brand and can run only when it offers value as per customer behavior and their expectations. Our Reddit promotion techniques helped us understand buyer behavior and the latest market trend. Reddit promotion included close attention to visitor comments and conversations for market analysis. This helped us improve the content on the website and reshape it to match the visitor expectations.  
+<p><strong>Results & Traffic Boost:</strong><br/>The design and SEO team worked together to optimize the website for improved rankings and better performance. We noticed the improvements and moved onto other strategies that included high-quality content to appeal the target market. Content generation was one of the factors that helped Paytm get a ranking boost
 </p>
-<p><strong>Getting Results:</strong><br/>
-
-
-<p>We successfully delivered the project by achieving the promised results in the given timeframe. With  the improved content, new website structure and better links, Satya Paul saw amazing growth of around 1665 in their quarterly revenue. The average session duration shot from 2.39 in March 2015 to 4.30 in July 2015, which was around 80% more. 
+<p>With our help Paytm grew their online business and noticed amazing improvements in the rankings in less than nine months. Paytm got: 
+<ul>
+    <li>
+       Top 3 rankings for above  200 keywords
+    </li>
+    <li>Top 5 rankings for around 600 keywords</li>
+    <li>Top 10 ranking for more than 1200 keywords
+        
+    </li>
+</ul>
 </p>
+
 </div>
 <div class="product-dedtails">
     <img src="images/brand-home7.png" alt="fnp" />
@@ -111,8 +127,8 @@ Satya Paul is a fashion brand and can run only when it offers value as per custo
 <div class="container">
 <div class="master">
 <div class="brandimg">
-    <img src="images/st.png"/>
-    <img src="images/st2.png"/>
+    <img src="images/paytm-1.png"/>
+   <img src="images/paytm-2.png"/>
     
   </div>
 </div>

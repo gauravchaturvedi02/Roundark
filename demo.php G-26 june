@@ -1242,7 +1242,7 @@ jQuery('#request-proposal-open').click(function(){
 
 </div>
     
-    <div class="computer-img-new">
+    <div class="computer-img">
  
   <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
 
@@ -1264,7 +1264,7 @@ jQuery('#request-proposal-open').click(function(){
 <li>
 
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
     <img src="images/addcamp.png" width="37" height="37"> <a href="#">Advertising Campaigns</a>
 
 

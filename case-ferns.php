@@ -1,5 +1,5 @@
 
-<title>Case Study</title>
+<title>Case Study:Ferns & Petals</title>
 <?php include 'header.php'; ?>
 
 <!--Case-Study page start -->
@@ -7,7 +7,10 @@
 <div class="container">
 <div class="master">
 <div class="case-study-title">
-<h2>Satyapaul Case Study</h2>
+<h2>Ferns & Petals Case Study</h2>
+<h3>140% lift in SEO traffic and revenue for three years
+
+</h3>
 <!--<h5>Huge optimizes Gucci.com and brings luxury to mobile.</h5>-->
 </div>
 <div class="banner-case-studyproduct">
@@ -32,10 +35,12 @@
 <div class="master">
 <div class="case-study-box">
 <div class="product-info">
-<p><strong>Background:</strong><br/>
-Established in 1985, Satya Paul today is an internationally acclaimed fashion brand. The brand got recognition for its unique design concepts and a vivid color palette. Satya Paul introduced the concept of choreographed collections in 1985 when there was very limited awareness about designer brands. With its exceptional work the brand has made a strong presence in more than 35 locations in India and at select high street boutiques abroad. Besides high-end stores, the brand also has an online presence for the avid online shoppers. 
+<p><strong>Background:</strong><br/>Ferns N Petals (FNP) is one of the largest gift and flower retailers in India. The group started its journey in 1994 with the first retail outlet. Started with the objective to provide Indian consumers top quality exotic flowers, the brand today is synonymous with love, emotions and celebrations. It also provides comprehensive solution for wedding décor and has presence in around 85 cities with nearly 200 outlets. FNP thinks that consumer satisfaction is the key to success and joined hands with us to achieve this goal. 
+
 </p>
-<p>The brand popularized the style of concept-based designs but faced troubles with the sales from their online store. The team was looking to strengthen their online presence with increased traffic, better ranks and more leads. To achieve this goal Satya Paul hired Round Ark as their search engine optimization partner. 
+<p>
+Ferns N Petals is dedicated to providing the visitors best online gifting solutions. After trying some SEO activities initially Ferns N Petals engaged Round Ark in their search engine optimization strategies to boost traffic, increase engagement and grow business with improved ROI. 
+
 </p>
 </div>
 <div class="product-dedtails">
@@ -46,19 +51,18 @@ Established in 1985, Satya Paul today is an internationally acclaimed fashion br
     
    <div class="case-study-box">
 <div class="product-info-new">
-<p><strong>Challenge:</strong><br/>
-As Satya Paul is a highly reputed brand, they had good traffic to the website, but this was not on relevant keywords. Further, the traffic visiting the online store was not getting converted. We brainstormed with the Satya Paul team to understand the problem areas, prepared an audit report and came out with many loopholes affecting their online business.  
-</p>
-<p><strong>
-The Endeavor
-</strong></p>
-<p>
-    
-Once we know the problems, the next step was to work on them to remove them and help the business get improved results. Our focus areas while working on their SEO project were: the content quality, website architecture and the quality of links. We rehashed the content as per visitor expectations and redeveloped the website structure to make it more user-friendly. 
-</p><p>
-Competitor's analysis helped us get some high-quality links. We kept their strategies in the mind while forming an action plan for our client. Besides creating a quality link, our focus was also on removing the toxic links. 
+<p><strong>Research:</strong><br/>
+After some brainstorming with the client and the SEO team, we came up with the action plan to boost the traffic and revenue for Ferns N Petals. The research included visitor behavior analysis, content analysis and competitor analysis. The research reports helped us plan strategies to boost rankings and grow traffic. 
+
 
 </p>
+<p><strong>
+Best practice:
+</strong></p>
+<p>After having a look at the analysis data, the team noticed that the website needs a lot of improvements in terms of content quality and the user experience as it was not set as per the best practices. We step by step worked on all the aspects that included site architecture development, content re-hash and toxic link removal. Besides this, we also built some links on the basis of competitor analysis and opted for sky scrapper techniques for content marketing. The sky scrapper techniques helped Ferns N Petals get increased visitors with the quality backlinks.
+</p>    
+    
+
 </div>
 <div class="product-dedtails-new">
     <img src="images/brand-home7.png" alt="fnp" />
@@ -69,14 +73,13 @@ Competitor's analysis helped us get some high-quality links. We kept their strat
     
     <div class="case-study-box">
 <div class="product-info">
-<p><strong>Creativity:</strong><br/>
-Satya Paul is a fashion brand and can run only when it offers value as per customer behavior and their expectations. Our Reddit promotion techniques helped us understand buyer behavior and the latest market trend. Reddit promotion included close attention to visitor comments and conversations for market analysis. This helped us improve the content on the website and reshape it to match the visitor expectations.  
+<p><strong>Profitability and Efficiency:</strong><br/>
+After putting all the strategies in place, our next step was to measure the results. As a result of Round Ark's efforts, the rankings on desired keywords greatly improved with 100% traffic boost for three years consecutively. The ROI of the company grew by 115% since the changes were implemented. 
 </p>
-<p><strong>Getting Results:</strong><br/>
-
-
-<p>We successfully delivered the project by achieving the promised results in the given timeframe. With  the improved content, new website structure and better links, Satya Paul saw amazing growth of around 1665 in their quarterly revenue. The average session duration shot from 2.39 in March 2015 to 4.30 in July 2015, which was around 80% more. 
+<p>
+    We also restructured the website that resulted in unprecedented growth of 140% in SEO traffic and revenue both. 
 </p>
+
 </div>
 <div class="product-dedtails">
     <img src="images/brand-home7.png" alt="fnp" />
@@ -111,8 +114,8 @@ Satya Paul is a fashion brand and can run only when it offers value as per custo
 <div class="container">
 <div class="master">
 <div class="brandimg">
-    <img src="images/st.png"/>
-    <img src="images/st2.png"/>
+    <img src="images/ferns-2.png"/>
+   
     
   </div>
 </div>

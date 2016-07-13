@@ -1,5 +1,5 @@
 
-<title>Case Study</title>
+<title>Case Study:H2O Plus</title>
 <?php include 'header.php'; ?>
 
 <!--Case-Study page start -->
@@ -7,7 +7,7 @@
 <div class="container">
 <div class="master">
 <div class="case-study-title">
-<h2>Satyapaul Case Study</h2>
+<h2> H20 Plus Case Study</h2>
 <!--<h5>Huge optimizes Gucci.com and brings luxury to mobile.</h5>-->
 </div>
 <div class="banner-case-studyproduct">
@@ -33,10 +33,10 @@
 <div class="case-study-box">
 <div class="product-info">
 <p><strong>Background:</strong><br/>
-Established in 1985, Satya Paul today is an internationally acclaimed fashion brand. The brand got recognition for its unique design concepts and a vivid color palette. Satya Paul introduced the concept of choreographed collections in 1985 when there was very limited awareness about designer brands. With its exceptional work the brand has made a strong presence in more than 35 locations in India and at select high street boutiques abroad. Besides high-end stores, the brand also has an online presence for the avid online shoppers. 
+H2O Plus started its journey in the year 1989 with around 100 skincare products made from marine-derived blends. The company aimed at harnessing the skin-changing power of the sea and featured exclusive Hydrogel technology to help the skin retain vital nutrients for up to eight hours. The internationally recognized brand has many outlets in India. The award-winning formulas of the brand helped consumers get perfect skin. 
 </p>
-<p>The brand popularized the style of concept-based designs but faced troubles with the sales from their online store. The team was looking to strengthen their online presence with increased traffic, better ranks and more leads. To achieve this goal Satya Paul hired Round Ark as their search engine optimization partner. 
-</p>
+<p>The brand knew that to grow in technologically advanced market it needs strong online presence, but was lacking with the ideas to achieve the goals. It brought them to Round Ark with an expectation of improved rankings, boosted traffic and more engagement. The SEO team was tasked to grow the organic reach of H2O Plus with a customized plan for their brand. 
+</p>   
 </div>
 <div class="product-dedtails">
     <img src="images/brand-home7.png" alt="fnp" />
@@ -46,18 +46,11 @@ Established in 1985, Satya Paul today is an internationally acclaimed fashion br
     
    <div class="case-study-box">
 <div class="product-info-new">
-<p><strong>Challenge:</strong><br/>
-As Satya Paul is a highly reputed brand, they had good traffic to the website, but this was not on relevant keywords. Further, the traffic visiting the online store was not getting converted. We brainstormed with the Satya Paul team to understand the problem areas, prepared an audit report and came out with many loopholes affecting their online business.  
+<p><strong>Research and Strategy formulation:</strong><br/>
+The SEO process for the brand started with their website analysis, content analysis, and competitor analysis. It helped us find out the problem areas that included bad links, low-quality content and some website issues. The initial analysis process gave us a direction to start working on their project for not just the increased rankings and traffic but also for better user experience on their website  
 </p>
-<p><strong>
-The Endeavor
-</strong></p>
 <p>
-    
-Once we know the problems, the next step was to work on them to remove them and help the business get improved results. Our focus areas while working on their SEO project were: the content quality, website architecture and the quality of links. We rehashed the content as per visitor expectations and redeveloped the website structure to make it more user-friendly. 
-</p><p>
-Competitor's analysis helped us get some high-quality links. We kept their strategies in the mind while forming an action plan for our client. Besides creating a quality link, our focus was also on removing the toxic links. 
-
+Utilizing the insight, we redeveloped their website to make it more user-friendly and SEO friendly. The next process was to remove toxic links and build high-quality links on the basis of competitor analysis. The content team also worked on quality of the content. And Reddit promotion techniques helped them understand customer behavior and their expectations from a cosmetic brand. As H2O Plus has huge audience base from all across the world, the major challenge we faced was to offer value to every visitor and write content that suits every  customer; irrespective of their location. 
 </p>
 </div>
 <div class="product-dedtails-new">
@@ -69,17 +62,16 @@ Competitor's analysis helped us get some high-quality links. We kept their strat
     
     <div class="case-study-box">
 <div class="product-info">
-<p><strong>Creativity:</strong><br/>
-Satya Paul is a fashion brand and can run only when it offers value as per customer behavior and their expectations. Our Reddit promotion techniques helped us understand buyer behavior and the latest market trend. Reddit promotion included close attention to visitor comments and conversations for market analysis. This helped us improve the content on the website and reshape it to match the visitor expectations.  
-</p>
+
 <p><strong>Getting Results:</strong><br/>
 
 
-<p>We successfully delivered the project by achieving the promised results in the given timeframe. With  the improved content, new website structure and better links, Satya Paul saw amazing growth of around 1665 in their quarterly revenue. The average session duration shot from 2.39 in March 2015 to 4.30 in July 2015, which was around 80% more. 
+<p>Just in a short span of four months, the sessions from organic traffic grew by 28%. The number of sessions increased from just 3188 in Jan 2015 to 4095 in May 2015. The brand also got good growth in terms of a number of goal completion that grew by 10% in just three months. 
 </p>
+
 </div>
 <div class="product-dedtails">
-    <img src="images/brand-home7.png" alt="fnp" />
+    <img src="images/h20-3.png" alt="fnp" />
 
 </div>
 </div>
@@ -111,8 +103,8 @@ Satya Paul is a fashion brand and can run only when it offers value as per custo
 <div class="container">
 <div class="master">
 <div class="brandimg">
-    <img src="images/st.png"/>
-    <img src="images/st2.png"/>
+    <img src="images/h2o-1.png"/>
+    <img src="images/h2o-2.png"/>
     
   </div>
 </div>
