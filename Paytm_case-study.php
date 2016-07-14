@@ -17,7 +17,7 @@
         <div class="flexslider">
           <ul class="slides">
               <li><img src="images/paytm-bn1.jpg" /></li>
-              <li><img src="images/paytm-bn2.jpg" /></li>
+              <li><img src="images/paytmbn2.png" /></li>
         
           </ul>
         </div>
@@ -111,7 +111,7 @@ We also focused on the website quality and analyzed it for the speed, performanc
 
 </div>
 <div class="product-dedtails">
-    <img src="images/pay3.jpg" alt="fnp" />
+    <img src="images/brand/paytm-banner.png" alt="fnp" />
 
 </div>
 </div>
@@ -155,8 +155,8 @@ We also focused on the website quality and analyzed it for the speed, performanc
 <div class="container">
 <div class="master">
 <div class="more-work-row">
-<h3>More Work</h3>
-<ul>
+    <h3>More Work</h3>
+<!--<ul>
 <li><a href="maspar_case-study.php">
 <span class="figure">
 <img src="images/nyc-thumb.jpg" alt="nyc" /> 
@@ -187,10 +187,123 @@ We also focused on the website quality and analyzed it for the speed, performanc
 <span class="proname">H2O</span>
 </a>
 </li>
-</ul>
+</ul>-->
 </div>
 </div>
 </div>
+</div>
+<!-----------------First Row Start------------------->
+
+
+<div class="top brand-home">
+<div class="brand">
+
+    <a href="Bwitch_case-study.php">
+
+<div class="img"><img src="images/brand/bwitch-banner.png" alt="brand" /></div>
+
+
+
+<div class="imglogo"><img src="images/brand/bwitch-logo.png" alt="logo" /></div>
+
+    </a>
+
+</div><!--bwitch1-->
+
+
+
+<div class="brand">
+
+    <a href="aavaranaa_case-study.php">
+
+        <div class="img"><img src="images/avr3.jpg" alt="brand" /></div>
+
+
+
+        <div class="imglogo"><img src="images/avr-logo.jpg" alt="logo" /></div>
+
+
+    </a>
+</div><!--DrG2-->
+
+
+
+<div class="brand">
+
+    <a href="ferns_case-study.php">
+
+<div class="img"><img src="images/brand-home5.png" alt="brand" /></div>
+
+
+
+<div class="imglogo"><img src="images/brand-logo5.png" alt="logo" /></div>
+
+    </a>
+
+</div> <!---FNP3-->
+
+
+
+<div class="brand">
+
+
+
+    <a href="Utsav_case-study.php">
+
+
+
+        <div class="img"><img src="images/ut.jpg" alt="brand" /></div>
+
+
+
+
+
+
+
+<div class="imglogo"><img src="images/ut1.png" alt="logo" /></div>
+
+
+    </a>
+
+
+
+
+</div><!----Utsav-->
+
+
+
+
+
+
+<div class="brand">
+
+
+
+
+
+
+    <a href="satyapaul_case-study.php">
+<div class="img"><img src="images/brand-home7.png" alt="brand" /></div>
+
+
+
+
+
+
+
+<div class="imglogo"><img src="images/brand-logo7.png" alt="logo" /></div>
+
+
+
+
+    </a>
+
+
+</div> <!--SatyaPaul5-->
+
+<!-------------------First Row End----------------------->
+
+
 </div>
 
 

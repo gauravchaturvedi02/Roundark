@@ -3750,6 +3750,7 @@ textarea { float: right;border: 1px solid #ccc; width: 70%; padding: 4px 5px;}
 
 .tabs-new .tab-links li h3 { font-size: 17px;  font-weight: 600;  margin-bottom: 10px; color:white; opacity:1.0; padding-top: 135px;}
 .tabs-new .tab-links li:hover h3{ padding-top: 8px;}
+
 .tabs-new .tab.active {display:block; color:black;}
 
 .tabs-new .tab-links li p {  font-size: 15px; line-height: 18px; color:black; opacity:0; }
@@ -3912,7 +3913,7 @@ textarea { float: right;border: 1px solid #ccc; width: 70%; padding: 4px 5px;}
 
 .tabs-new.main-box .tab-links.boxes li:last-child{ margin-right:0;}
 
-.tabs-new.main-box .tab-links.boxes a { border-radius: 0;  color: #333;  display: block;  font-size: 12px;   font-weight: 600;   height: 28px; 
+.tabs-new.main-box .tab-links.boxes a { border-radius: 0;  color: #333;  display: block;  font-size: 12px;   font-weight: 600;   height: 45px; 
 
  letter-spacing: 0;  padding: 22px 1px;  transition: all 0.15s linear 0s; border-top:1px solid transparent; border-bottom:1px solid transparent; color:#fff;position:relative;}
 
@@ -3922,7 +3923,7 @@ textarea { float: right;border: 1px solid #ccc; width: 70%; padding: 4px 5px;}
 .tabs-new.main-box .tab-links.boxes a p{margin:0px; border-radius: 0;  color: #333;  display: block;  font-size: 12px;   font-weight: 600;   height: 20px; 
 
  letter-spacing: 0;  transition: all 0.15s linear 0s; border-top:1px solid transparent; border-bottom:1px solid transparent; color:#fff;position:absolute;text-align: centre;top:5px;
-left:5px;}
+left:5px; opacity:1.0;}
 
 
 
@@ -3951,7 +3952,7 @@ left:5px;}
 
 
 
-.tabs-new.main-box .tab-links.boxes li a:hover {background:#5871bb;text-decoration:none; border-top:1px solid #5871bb; border-bottom:1px solid #5871bb; color:#fff; opacity:1.0;}
+.tabs-new.main-box .tab-links.boxes li a:hover {background:#cccccc;text-decoration:none; border-top:1px solid #5871bb; border-bottom:1px solid #5871bb; color:#fff; opacity:1.0;}
 .tabs-new.main-box .tab-links.boxes li a:hover p{opactiy:1.0;}
 .tabs-new.main-box li.active a, li.active a:hover {background:#5871bb;color:#333; border-top:1px solid #5871bb; border-bottom:1px solid #5871bb; color:#fff;}
 

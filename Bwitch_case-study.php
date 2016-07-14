@@ -16,7 +16,7 @@
         <div class="flexslider">
           <ul class="slides">
               <li><img src="images/bwitch-bn1.jpg" /></li>
-              <li><img src="images/bwitch-bn2.jpg" /></li>
+              <li><img src="images/bwitch-bn1.jpg" /></li>
         
           </ul>
         </div>
@@ -148,7 +148,7 @@ Satya Paul is a fashion brand and can run only when it offers value as per custo
 <div class="master">
 <div class="more-work-row">
 <h3>More Work</h3>
-<ul>
+<!--<ul>
     <li><a href="aavaranaa_case-study.php">
 <span class="figure">
     <img src="images/avr3.jpg" alt="nyc" /> 
@@ -179,11 +179,126 @@ Satya Paul is a fashion brand and can run only when it offers value as per custo
 <span class="proname">Maspar</span>
 </a>
 </li>
-</ul>
+</ul>-->
 </div>
 </div>
 </div>
 </div>
+
+<div class="top brand-home">
+<div class="brand">
+
+
+
+    <a href="Utsav_case-study.php">
+
+
+
+        <div class="img"><img src="images/ut.jpg" alt="brand" /></div>
+
+
+
+
+
+
+
+<div class="imglogo"><img src="images/ut1.png" alt="logo" /></div>
+
+
+    </a>
+
+
+
+
+</div><!----Utsav-->
+
+<div class="brand">
+
+    <a href="aavaranaa_case-study.php">
+
+        <div class="img"><img src="images/avr3.jpg" alt="brand" /></div>
+
+
+
+        <div class="imglogo"><img src="images/avr-logo.jpg" alt="logo" /></div>
+
+
+    </a>
+</div><!--DrG2-->
+
+
+
+<div class="brand">
+
+    <a href="ferns_case-study.php">
+
+<div class="img"><img src="images/brand-home5.png" alt="brand" /></div>
+
+
+
+<div class="imglogo"><img src="images/brand-logo5.png" alt="logo" /></div>
+
+    </a>
+
+</div> <!---FNP3-->
+
+
+
+
+
+<div class="brand">
+
+    <a href="Paytm_case-study.php">
+
+<div class="img"><img src="images/brand/paytm-banner.png" alt="brand" /></div>
+
+
+
+<div class="imglogo"><img src="images/brand/paytm-logo.png" alt="logo" /></div>
+    </a>
+
+
+</div><!---Paytm4-->
+
+
+
+
+
+
+
+
+
+<div class="brand">
+
+
+
+
+
+
+    <a href="satyapaul_case-study.php">
+<div class="img"><img src="images/brand-home7.png" alt="brand" /></div>
+
+
+
+
+
+
+
+<div class="imglogo"><img src="images/brand-logo7.png" alt="logo" /></div>
+
+
+
+
+    </a>
+
+
+</div> <!--SatyaPaul5-->
+
+<!-------------------First Row End----------------------->
+
+
+</div>
+
 
 
 <!--Case-Study page end -->

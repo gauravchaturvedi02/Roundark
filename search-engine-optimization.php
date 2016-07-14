@@ -185,7 +185,8 @@ jQuery('#request-proposal-open').click(function(){
 
 
    <div class="field"><select>
-
+           
+   <option> Select </option>
    <option>Search Engine Optimization</option>
 
    <option>Social Media Marketing</option>
@@ -276,27 +277,27 @@ jQuery('#request-proposal-open').click(function(){
 
     <ul class="tab-links boxes">
 
-        <li class="active"><a href="#tab1">Search Engine Optimization</a></li>
+        <li class="active"><a href="#tab1"><p>Search Engine Optimization</p></a></li>
 
-        <li><a href="#tab2">Social Media Marketing</a></li>
+        <li><a href="#tab2"><p>Social Media Marketing</p></a></li>
 
-        <li><a href="#tab3">Email Newsletter</a></li>
+        <li><a href="#tab3"><p>Email Newsletter</p></a></li>
 
-        <li><a href="#tab4">Search Engine Marketing</a></li>
+        <li><a href="#tab4"><p>Search Engine Marketing</p></a></li>
 
-        <li><a href="#tab5">Content Marketing</a></li>
+        <li><a href="#tab5"><p>Content Marketing</p></a></li>
 
-        <li><a href="#tab6">Affiliate Marketing</a></li>
+        <li><a href="#tab6"><p>Affiliate Marketing</p></a></li>
 
-        <li><a href="#tab7">Technology</a></li>
+        <li><a href="#tab7"><p>Technology</p></a></li>
 
-        <li><a href="#tab8">Online Reputation Management</a></li>
+        <li><a href="#tab8"><p>ORM</p></a></li>
 
-        <li><a href="#tab9">App Store Optimization</a></li>
+        <li><a href="#tab9"><p>App Store Optimization</p></a></li>
 
-        <li><a href="#tab10">Market Place</a></li>
+        <li><a href="#tab10"><p>Market Place</p></a></li>
 
-        <li><a href="#tab11">Local</a></li>       
+        <li><a href="#tab11"><p>  Local</p></a></li>       
 
     </ul>
 
@@ -611,7 +612,7 @@ jQuery('#request-proposal-open').click(function(){
 
 <li>
 
-<img src="images/new/content.png" width="37" height="37" alt="Content marketting"> <a href="#">Content Marketing Strategy</a>
+<img src="images/new/content.png" width="37" height="37" alt="Content marketting"> <a href="#">SEO Consultancy</a>
 
 
 
@@ -619,7 +620,30 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<p>We find content that has already done well. We take what we find and make it better. And then we promote that content directly to people who would be interested.</p>
+<p>We design a realistic strategy defining your SEO goals. Our team provides you the guidance and support required at each step assisting in the development of the best approach for your business.
+
+
+</p>
+
+
+
+</li>
+
+
+
+
+
+<li>
+
+<img src="images/new/effective.png" width="37" height="37" alt="SEO"> <a href="#">Keyword and Market Research</a>
+
+
+
+
+
+
+
+<p>Employing the best research to find the most relevant keywords generating the traffic for your website is what we prioritize. Keyword and market research are important to make the most of the opportunities within the market. No estimations are made which we cannot keep. </p>
 
 
 
@@ -635,7 +659,9 @@ jQuery('#request-proposal-open').click(function(){
 
 <li>
 
-<img src="images/new/effective.png" width="37" height="37" alt="SEO"> <a href="#">Effective SEO Lead Generation</a>
+
+
+<img src="images/new/copyWriting.png" width="37" height="37" alt="Copyright"> <a href="#">Technical Audit</a>
 
 
 
@@ -643,33 +669,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<p>Define your objective, find your multiple, budget for your traffic, decide your course of action, and then… execute.</p>
-
-
-
-
-
-
-
-</li>
-
-
-
-
-
-<li>
-
-
-
-<img src="images/new/copyWriting.png" width="37" height="37" alt="Copyright"> <a href="#">SEO Copywriting</a>
-
-
-
-
-
-
-
-<p>Give readers what they want. Give search engines what they want.</p>
+<p>We utilize the latest and advanced SEO software to serve you with the best outcome. Known for our technical capabilities, our audit campaigns analyze your website and web page indexing to ensure maximum visibility on the search engines. </p>
 
 
 
@@ -691,25 +691,58 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<img src="images/new/long.png" width="37" height="37" alt="SEO"> <a href="#">Long Tail SEO Keyword Research</a>
+<img src="images/new/long.png" width="37" height="37" alt="SEO"> <a href="#">Competitor Analysis</a>
 
 
-<p>Long tail keywords are easier to rank for because there is less competition. They convert better. And, they help sites eventually rank for the more competitive keywords.</p>
-
+<p>By employing effective competitor analysis, we generate a competitive landscape to identify the key businesses in the concerned space. Our SEO methods will provide you an edge over the market competitors.</p>
 </li>
 
 <li>
-<img src="images/new/seo.png" width="37" height="37" alt="SEO"> <a href="#">SEO Audit & Website Review</a>
-<p>Aggregate the top SEO audit tools into one, easy to read report.</p>
+<img src="images/new/seo.png" width="37" height="37" alt="SEO"> <a href="#">Website Analysis</a>
+<p>The website analysis administers a comprehensive snapshot of how your website is viewed by the various search engines. Analysis of areas likes HTML code, HTML structure, and website design can upgrade your strategy to improve search engine rankings. </p>
+</li>
+<li>
+
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Content Writing</a>
+<p>Well framed and optimized content is the key feature for the search engine marketing success. We provide a plethora of content writing services like website content, blogs, article and press releases. Compelling content is the backbone of SEO marketing campaigns.</p>
 
 </li>
 <li>
 
-<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">WordPress Website Development</a>
-<p>Our WordPress website development services can have you a responsive, SEO friendly and secure website in less than a week.</p>
-
-
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Link Development</a>
+<p>The website’s popularity is defined by the network of inbound links to other relevant websites. We provide the best link development by utilizing techniques like fee-based directory submissions, article submissions, blog postings and social bookmarking.
+    We let your brand make a name in the mainstream media.</p>
 </li>
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Onsite SEO</a>
+<p>We believe in giving advice on all the related aspects of SEO incorporating site migrations, schema, and many others. Evaluating the website structure and other 
+    key elements within the search engine algorithms, we provide better alignment in keyword targeting. </p>
+</li>
+
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Penalty Recovery</a>
+<p>We are backed by a well-experienced SEO team to provide link audits and review of back link profiles.
+    Retrieving websites from Google algorithmic penalties and manual actions, we serve you with the best services possible. </p>
+</li>
+
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Interactive Content</a>
+<p>The creative and designing team works in close association with the SEO team to deliver you with the creative and phenomenal infographics for the website.
+    We deliver innovative and interactive contents that get shared across the web on various platforms. </p>
+</li>
+
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Reporting and Analysis</a>
+<p>Data give the insight of the website performance across various channels. We give you reports on monthly basis pertaining to visibility, analytics,
+    conversions and revenues. This aids you to analyze the SEO campaign performance as it matters a lot to our brand. </p>
+</li>
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Code Optimization</a>
+<p>The code optimization of your HTML influences your search engine rankings in multiple ways such as presenting your 
+    content for an easy understanding and reducing the loading time of the website pages </p>
+</li>
+
+
 </ul>
 
 </div>
@@ -718,7 +751,7 @@ jQuery('#request-proposal-open').click(function(){
 
   <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
 
-  <a href="#">request for company profile</a>
+ 
 
   </div>
 
@@ -926,7 +959,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<h2>Our Process</h2>
+<h2>Search Engine Optimization Process</h2>
 
 
 
@@ -1006,7 +1039,7 @@ And then we promote that content directly to people who would be interested.</p>
 
 
 
-<h5><img src="images/new/seo-strategy.png" width="" height="" alt="SEO Strategy">SEO Strategy</h5>
+<h5><img src="images/new/seo-strategy.png" width="" height="" alt="SEO Strategy"> Research</h5>
 
 
 
@@ -1014,28 +1047,8 @@ And then we promote that content directly to people who would be interested.</p>
 
 
 
-<p>Inbound leads cost 61% less than outbound leads. SEO Leads have a 14.6% close rate, while outbound leads have a 1.7% close rate. B2B marketers who use blogs generate 67% more leads per month than those who do not.</p>
-
-
-
-
-
-
-
-<p>
-
-
-
-
-
-
-
-Needless to say SEO can be a great way to grow your business. There are many advanced things about SEO that you can get hung up on, but our strategy phase keeps things simple so you can execute things with your internal team, or look to an external vendor to do the work for you.</p>
-
-
-
-
-
+<p>The SEO process commences with a comprehensive research of the keywords utilizing various tools and analytics. Keyword research and competitive research is done to accord you with the impressive results. After analyzing the targeted keywords, we frame a competitive analysis against some of them biggest brand competitors in the market.
+    The primary step is essential to gauge the initial ranking of the website against its respective competitors.</p>
 
 
 </li>
@@ -1050,7 +1063,7 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
-<h5><img src="images/new/build-out.png" width="37" height="37" alt="Build Out">Build Out</h5>
+<h5><img src="images/new/build-out.png" width="37" height="37" alt="Build Out">Reporting</h5>
 
 
 
@@ -1058,8 +1071,11 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
-<p>Once the strategy is set, it's time to build. In this phase, we'll focus on optimizing your website and building out the core elements from the strategy so people searching for relevant terms will click on your content.</p>
-
+<p>Once the keyword and market research are done thoroughly,
+    the specific areas which require work to be done frame the second step of the SEO process. 
+    It gives you a baseline to decide a subsequent campaign strategy.
+    We make online marketing decisions based on the traffic report on the website. 
+    Further adjustments in the SEO plan can be made based on the reports.</p>
 
 
 
@@ -1071,52 +1087,38 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 <li>
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Content Building</h5>
 
-
-
-
-
-
-
-<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Monthly Management</h5>
-
-
-
-
-
-
-
-<p>This is where the magic happens. Our monthly management services focus on creating the content that will get you the clicks that convert. We'll continually reverse engineer competitor content, identify and monitor your progress on target keywords, and report on the results each month to show you the ROI..</p>
-
-
-
-
-
-
+<p>Content, being the essential factor marks the success of search engine 
+    optimization process. The high-quality content serves your business in multiple ways
+    Content accords the reader a reason to stay and visit the website again. Content is what
+    the search engine demands to give them more information pertaining to the business and products.</p>
 
 </li>
 
+<li>
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Page Optimization</h5>
 
+<p>The high-quality content is followed by the page optimization step.
+    Assign a title to your page and a text-based navigation which the search engine can follow.
+    Proper placement of the keyword and a site map incorporating different links 
+    to all the web pages also affects the search engine indexing. Page optimization is an important step in the SEO process.</p>
 
+</li>
+<li>
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Link Building</h5>
 
+<p>Link Building is essential as it enhances the likelihood of the search engines running across the website and searchers who look out for different services and products. Link popularity can be evaluated with numerous free 
+    online tools. After consulting with the clients, we design their online reach influencing the high-quality inbound links. </p>
 
+</li>
+<li>
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Reporting & Analysis </h5>
 
+<p>The reporting done at the initial step is followed at regular intervals, post the optimization step. The factors like rankings, traffic levels, social signals, and other related metrics can be compared with pre-optimization levels. Reporting and
+    Analysis step give significant results to the SEO campaigns. The metrics of an SEO plan depends on the website goals..</p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+</li>
 
 
 
@@ -2208,65 +2210,128 @@ methods such as content linking and permanent navigation links.</p>
 
 <div class="top case">
 
+
+
 <div class="container">
+
+
 
 <div class="master">
 
+
+
 <div class="case-studies">
+
+
 
 <div class="left-section">
 
+
+
 <h2>case studies</h2>
+
+
 
 <p>We have helped companies get success and achieve their business goals with our innovative and customized solutions. Take a look at some case studies for more Round Ark services highlights. </p>
 
-<a href="#">all case studies</a>
+
+
+<a href="cases.php">all case studies</a>
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="right-section">
 
+
+
 <div class="case-block">
+
+
 
 <div class="case full-width">
 
+
+    <a  href="satyapaul_case-study.php">
   <img alt="case" src="images/case1.png">
+    </a>
+
 
   <h4>Satyapaul</h4>
 
-  <span>July 20, 2015</span>
+
+
+  
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="case half-width">
 
-  <img alt="case" src="images/case2.png">
+    <a href="aavaranaa_case-study.php">
 
-  <h4>H<sub>2</sub>O</h4>
+    <img alt="case" src="images/avr1.jpg">
 
-  <span>July 20, 2015</span>
+
+    </a>
+  <h4>Aavaranaa</h4>
+
+
+
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="case half-width right">
 
+
+    <a href="ferns_case-study.php">
   <img alt="case" src="images/case3.png">
+
+    </a>
 
   <h4>FernsNpetals</h4>
 
-  <span>July 20, 2015</span>
+
+
+  
+
+
 
 </div>
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
@@ -2276,57 +2341,115 @@ methods such as content linking and permanent navigation links.</p>
 
 
 
+
+
+
+
+
+
 <div class="case half-width">
 
-  <img alt="case" src="images/case4.png">
 
-  <h4>Foslighting</h4>
+    <a href="Bwitch_case-study.php">
+        <img alt="case" src="images/bw1.jpg">
+    </a>
 
-  <span>July 20, 2015</span>
+
+  <h4>Bwitch</h4>
+
+
+
+
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="case half-width right">
 
-  <img alt="case" src="images/case5.png">
+    <a href="Utsav_case-study.php">
 
-  <h4>Store99</h4>
+        <img alt="case" src="images/utlogo.jpg">
 
-  <span>July 20, 2015</span>
+    </a>
+
+  <h4>Utsav Fashion</h4>
+
+
+
+  
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="case full-width">
 
-  <img alt="case" src="images/case6.png">
 
-  <h4>Lacoste</h4>
+    <a href="Paytm_case-study.php">
+    <img alt="case" src="images/pay1.jpg">
 
-  <span>July 20, 2015</span>
+    </a>
 
-</div>
-
-</div>
+  <h4>Paytm</h4>
 
 
 
-</div>
-
-
+ 
 
 
 
 </div>
 
-</div>
+
 
 </div>
 
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
 
 
 

@@ -158,12 +158,12 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
- <h1 data-scroll-reveal="enter bottom over 0.5s and move 50px after 0.01s">Search Engine Optimization Services </h1>
+ <h1 data-scroll-reveal="enter bottom over 0.5s and move 50px after 0.01s">Social Media Marketing Services </h1>
 
 
 
 
- <h4>Generate more leads for your business through SEO.</h4> 
+ <h4>Generate more leads for your business through SMO.</h4> 
 
 
 
@@ -290,7 +290,7 @@ jQuery('#request-proposal-open').click(function(){
 
         <li><a href="#tab7">Technology</a></li>
 
-        <li><a href="#tab8">Online Reputation Management</a></li>
+        <li><a href="#tab8">ORM</a></li>
 
         <li><a href="#tab9">App Store Optimization</a></li>
 
@@ -558,7 +558,9 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<h2>Search Engine Optimization Services</h2>
+<h2>
+Social Media Marketing Services
+</h2>
 
 
 
@@ -566,7 +568,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<p>A few areas we specialize in with our search engine optimization services:</p>
+<p>Get Shares, Insights and Conversions </p>
 
 
 
@@ -608,7 +610,7 @@ jQuery('#request-proposal-open').click(function(){
 
 <li>
 
-<img src="images/new/content.png" width="37" height="37" alt="Content marketting"> <a href="#">Content Marketing Strategy</a>
+<img src="images/new/content.png" width="37" height="37" alt="Content marketting"> <a href="#">Social Media Audit</a>
 
 
 
@@ -616,7 +618,33 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<p>We find content that has already done well. We take what we find and make it better. And then we promote that content directly to people who would be interested.</p>
+<p>We don’t just randomly start working on your social media marketing project.
+    We first audit your profile to understand your presence and frame strategies.
+    We check the performance of your previous social efforts and think about better tactics for improved results. </p>
+
+
+
+
+
+
+</li>
+
+
+
+
+
+<li>
+
+<img src="images/new/effective.png" width="37" height="37" alt="SEO"> <a href="#">Social Consultancy</a>
+
+
+
+
+
+
+
+<p>Whether you want us to guide your in-house marketing team or want us to start your social media marketing process from the scratch, we have solution for all. We work with your team,
+    understand their approach and create strategies while keeping your business goals in the mind. </p>
 
 
 
@@ -632,7 +660,9 @@ jQuery('#request-proposal-open').click(function(){
 
 <li>
 
-<img src="images/new/effective.png" width="37" height="37" alt="SEO"> <a href="#">Effective SEO Lead Generation</a>
+
+
+<img src="images/new/copyWriting.png" width="37" height="37" alt="Copyright"> <a href="#">Social Profile Creation</a>
 
 
 
@@ -640,63 +670,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<p>Define your objective, find your multiple, budget for your traffic, decide your course of action, and then… execute.</p>
-
-
-
-
-
-
-
-</li>
-
-
-
-
-
-<li>
-
-
-
-<img src="images/new/copyWriting.png" width="37" height="37" alt="Copyright"> <a href="#">SEO Copywriting</a>
-
-
-
-
-
-
-
-<p>Give readers what they want. Give search engines what they want.</p>
-
-
-
-
-
-
-
-</li>
-
-
-
-
-
-
-
-
-
-<li>
-
-
-
-<img src="images/new/long.png" width="37" height="37" alt="SEO"> <a href="#">Long Tail SEO Keyword Research</a>
-
-
-
-
-
-
-
-<p>Long tail keywords are easier to rank for because there is less competition. They convert better. And, they help sites eventually rank for the more competitive keywords.</p>
+<p>We identify suitable social networks for your business and make sure you have presence on all those networks by creating social profile for you. If you want to create your social media profiles yourself, we provide required assistance in creating and managing the profile.</p>
 
 
 
@@ -718,7 +692,7 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<img src="images/new/seo.png" width="37" height="37" alt="SEO"> <a href="#">SEO Audit & Website Review</a>
+<img src="images/new/long.png" width="37" height="37" alt="SEO"> <a href="#">Brand Management</a>
 
 
 
@@ -726,7 +700,38 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<p>Aggregate the top SEO audit tools into one, easy to read report.</p>
+<p>Our expert social media marketing
+    team help you build strong brand image by converting the problems into opportunities.
+    It searches for the best username and creates profiles to create a brand image in the social world. </p>
+
+
+
+
+
+</li>
+
+
+
+
+
+
+
+
+
+<li>
+
+
+
+<img src="images/new/seo.png" width="37" height="37" alt="SEO"> <a href="#">Social Promotion</a>
+
+
+
+
+
+
+
+<p>We amplify your content with our effective social media promotion efforts and ensure that it gets maximum likes, shares and views. With our promotional services, we ensure that your valuable posts don’t get lost in the social forest. 
+    With our social media promotion plan we make sure that your content reaches the target audience. </p>
 
 
 
@@ -745,34 +750,56 @@ jQuery('#request-proposal-open').click(function(){
 
 
 <li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Creative Discussion</a>
 
-<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">WordPress Website Development</a>
-
-
-
-
-
-
-
-<p>Our WordPress website development services can have you a responsive, SEO friendly and secure website in less than a week.</p>
-
-
-
-
-
-
+<p>We help you get increased engagement on your social profiles with creative discussions.
+    We also ensure fast and reactive updates that help you get more hits, shares and reactions. </p>
 
 </li>
 
+<li>
+    <img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Blog Management</a>
 
+<p>We help you focus on other important business activities by taking responsibility of blog management. 
+    We ensure that you get a loyal audience base by creating and sharing better content in our blog management services.
+    Our experts transform your simple blog into a marketing powerhouse that helps you get increased business. </p>
 
+</li>
 
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Social Media Management</a>
 
+<p>We help you drive traffic and increased conversions with our professional social media management services.
+    We take your social media marketing process a level up than just posting X number of posts A number of times a day.
+    We create interactive experience with the target audience with our strategic approach. </p>
 
+</li>
 
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Social Media Monitoring</a>
 
+<p>We don’t just create campaigns and forget. We help you find what your audience is talking about you by tracking them
+    through regular social media monitoring.
+    It keeps you updated with the conversations and enables you to participate in them at the right time.  </p>
 
+</li>
 
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Reporting & Analysis</a>
+
+<p> We help you check the progress of your social media marketing efforts with regular reports and analysis.
+    The numbers give you a better picture of improvements and the business growth.  </p>
+
+</li>
+
+<li>
+<img src="images/new/wordpress.png" width="37" height="37"> <a href="#">Community Building</a>
+
+<p> If you don’t have in-house team to work on community building, we can do that also. We keep a check on 
+    the communities related to your niche,
+    find your brand mentions and respond to the both negative and positive mentions effectively.  </p>
+
+</li>
 
 
 
@@ -845,80 +872,14 @@ jQuery('#request-proposal-open').click(function(){
   <img src="images/new/computer-image.png" width="" height="" alt="Computer Image">
 
 
-
-
-
-
-
-  
-
-
-
-
-
-
-
-  <a href="#">request for company profile</a>
-
-
-
-
-
-
-
   </div>
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 </div>
-
-
-
-
 
 
 
@@ -1116,40 +1077,9 @@ jQuery('#request-proposal-open').click(function(){
 
 
 
-<h2>Our Process</h2>
-
-
-
-
-
-
-
-<p>Our search engine optimization services are really simple.
-
-
-
-
-
-
-
-We find content that has already done well.
-
-
-
-
-
-
-
-We take what we find and make it better.
-
-
-
-
-
-
-
-And then we promote that content directly to people who would be interested.</p>
-
+<h2>
+Social Media Marketing Process
+</h2>
 
 
 
@@ -1196,7 +1126,7 @@ And then we promote that content directly to people who would be interested.</p>
 
 
 
-<h5><img src="images/new/seo-strategy.png" width="" height="" alt="SEO Strategy">SEO Strategy</h5>
+<h5><img src="images/new/seo-strategy.png" width="" height="" alt="SEO Strategy">Social Media Strategy Analysis</h5>
 
 
 
@@ -1204,94 +1134,127 @@ And then we promote that content directly to people who would be interested.</p>
 
 
 
-<p>Inbound leads cost 61% less than outbound leads. SEO Leads have a 14.6% close rate, while outbound leads have a 1.7% close rate. B2B marketers who use blogs generate 67% more leads per month than those who do not.</p>
+<p>If you already have social profiles and working on your social media marketing
+    , the first step in our process is to analyze your strategies. It helps us find out the loopholes that
+    are not letting you generate the expected traffic and conversions. Social media strategy analysis also helps us 
+    get an idea of your business goals. </p>
 
 
 
 
 
 
+
+
+
+</li>
+
+
+
+<li>
+
+
+
+
+
+
+
+<h5><img src="images/new/build-out.png" width="37" height="37" alt="Build Out">Competitor Analysis </h5>
+
+
+
+
+
+
+
+<p>Competitor analysis includes the process of checking the performance of your competitors
+    on different social media platforms. It also helps us find get an idea of their strategies
+    and the best performing content. Performance here is on the basis of engagement and traffic. 
+
+
+
+</p>
+
+</li>
+
+
+
+<li>
+
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Report on Research Findings</h5>
+
+<p>After analyzing the social media strategies and competitor's profiles, we prepare an analysis report.
+    It gives us clear picture of every social account your business has and the purpose they serve.
+    The analysis report helps us make a mission statement for every social profile. </p>
+
+
+</li>
+
+<li>
+
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Most suitable social media platforms selection</h5>
+
+<p>This step in the social media marketing plan includes selection of the most suitable social media platforms for your 
+    business. If you have account on all the platforms, we also segregate
+    the accounts that are not profitable for your business and can be deactivated to save money, efforts and time. 
+</p>
+</li>
+
+<li>
+
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Account Creation</h5>
+
+<p>This step in the social media marketing process includes creating social profiles on the selected platforms.
+    If you already have business pages, which are not performing well or don't have strategically chosen username,
+    we prefer creating new pages or profiles. We ensure that all the areas of the social profiles 
+    are filled with the required information and details to enhance authenticity and win trust of the visitors. </p>
+
+
+</li>
+
+<li>
+
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Result driven campaign creation</h5>
 
 <p>
-
-
-
-
-
-
-
-Needless to say SEO can be a great way to grow your business. There are many advanced things about SEO that you can get hung up on, but our strategy phase keeps things simple so you can execute things with your internal team, or look to an external vendor to do the work for you.</p>
-
-
-
-
-
+After taking the foundation steps, we move on to the most important
+step that generates results: campaign creation. We optimize your social
+media marketing campaigns by using the knowledge and techniques, we have
+perfected in our years of experience in social media marketing. We keep 
+your budget and target audience in the mind and create campaigns while targeting key phrases, hashtags and niche.
+ </p>
 
 
 </li>
 
+<li>
+
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Engagement and Scheduling</h5>
+
+<p>
+When we are sure that we have created an effective and result
+oriented social media marketing campaign for your brand, we plan the posting schedule.
+It includes finding the best time slots to post the content to get maximum reach and engagement. 
+This also includes interaction with the new visitors on different profiles like LinkedIn, Twitter, Pinterest and Facebook. 
+ </p>
+
+
+</li>
 
 
 <li>
 
+<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Performance Tracking</h5>
 
-
-
-
-
-
-<h5><img src="images/new/build-out.png" width="37" height="37" alt="Build Out">Build Out</h5>
-
-
-
-
-
-
-
-<p>Once the strategy is set, it's time to build. In this phase, we'll focus on optimizing your website and building out the core elements from the strategy so people searching for relevant terms will click on your content.</p>
-
-
-
-
-
+<p>
+We believe in numbers and show you the performance with valid data by regularly tracking the performance.
+After running the campaigns, we track them to know the number of visitors, engagement and conversions you 
+have got through the campaign. </p>
+<p>Let the likes start coming by hiring RoundArk for your social media marketing services. 
+</p>
 
 
 </li>
-
-
-
-<li>
-
-
-
-
-
-
-
-<h5><img src="images/new/monthly-managenmnt.png" width="37" height="37" alt="Monthly Management">Monthly Management</h5>
-
-
-
-
-
-
-
-<p>This is where the magic happens. Our monthly management services focus on creating the content that will get you the clicks that convert. We'll continually reverse engineer competitor content, identify and monitor your progress on target keywords, and report on the results each month to show you the ROI..</p>
-
-
-
-
-
-
-
-</li>
-
-
-
-
-
-
-
 
 
 
@@ -2418,65 +2381,128 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 <div class="top case">
 
+
+
 <div class="container">
+
+
 
 <div class="master">
 
+
+
 <div class="case-studies">
+
+
 
 <div class="left-section">
 
+
+
 <h2>case studies</h2>
+
+
 
 <p>We have helped companies get success and achieve their business goals with our innovative and customized solutions. Take a look at some case studies for more Round Ark services highlights. </p>
 
-<a href="#">all case studies</a>
+
+
+<a href="cases.php">all case studies</a>
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="right-section">
 
+
+
 <div class="case-block">
+
+
 
 <div class="case full-width">
 
+
+    <a  href="satyapaul_case-study.php">
   <img alt="case" src="images/case1.png">
+    </a>
+
 
   <h4>Satyapaul</h4>
 
-  <span>July 20, 2015</span>
+
+
+  
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="case half-width">
 
-  <img alt="case" src="images/case2.png">
+    <a href="aavaranaa_case-study.php">
 
-  <h4>H<sub>2</sub>O</h4>
+    <img alt="case" src="images/avr1.jpg">
 
-  <span>July 20, 2015</span>
+
+    </a>
+  <h4>Aavaranaa</h4>
+
+
+
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="case half-width right">
 
+
+    <a href="ferns_case-study.php">
   <img alt="case" src="images/case3.png">
+
+    </a>
 
   <h4>FernsNpetals</h4>
 
-  <span>July 20, 2015</span>
+
+
+  
+
+
 
 </div>
 
 
 
+
+
+
+
 </div>
+
+
+
+
 
 
 
@@ -2486,57 +2512,116 @@ Needless to say SEO can be a great way to grow your business. There are many adv
 
 
 
+
+
+
+
+
+
 <div class="case half-width">
 
-  <img alt="case" src="images/case4.png">
 
-  <h4>Foslighting</h4>
+    <a href="Bwitch_case-study.php">
+        <img alt="case" src="images/bw1.jpg">
+    </a>
 
-  <span>July 20, 2015</span>
+
+  <h4>Bwitch</h4>
+
+
+
+
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="case half-width right">
 
-  <img alt="case" src="images/case5.png">
+    <a href="Utsav_case-study.php">
 
-  <h4>Store99</h4>
+        <img alt="case" src="images/utlogo.jpg">
 
-  <span>July 20, 2015</span>
+    </a>
+
+  <h4>Utsav Fashion</h4>
+
+
+
+  
+
+
 
 </div>
+
+
+
+
 
 
 
 <div class="case full-width">
 
-  <img alt="case" src="images/case6.png">
 
-  <h4>Lacoste</h4>
+    <a href="Paytm_case-study.php">
+    <img alt="case" src="images/pay1.jpg">
 
-  <span>July 20, 2015</span>
+    </a>
 
-</div>
-
-</div>
+  <h4>Paytm</h4>
 
 
 
-</div>
-
-
+ 
 
 
 
 </div>
 
-</div>
+
 
 </div>
 
+
+
+
+
+
+
 </div>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
+</div>
+
+
+
 
 
 
